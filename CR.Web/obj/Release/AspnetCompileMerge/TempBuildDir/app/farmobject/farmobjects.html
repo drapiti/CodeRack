@@ -1,0 +1,64 @@
+﻿<section class="mainbar" data-ng-controller="farmobjects as vm">
+    <section class="matter">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <input class="input-sm search-query"
+                           data-ng-model="vm.farmobjectSearch"
+                           data-ng-keyup="vm.search($event)"
+                           placeholder="Filter Name, Serial, Cluster Name.." />
+                </div>
+                <div class="col-sm-6">
+                    <div class="btn-group pull-right">
+                        <a class="btn btn-info"
+                           data-ng-click="vm.refresh()"><i class="fa fa-refresh"></i><span>Refresh</span></a>
+                        <a class="btn btn-info"
+                           href="#/farmobject/new"><i class="fa fa-plus"></i><span>Add Farm Object</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="widget worange col-sm-12">
+                    <div class="widget-head" data-cr-widget-header title="{{vm.title}}"
+                         subtitle="{{vm.farmobjectFilteredCount}} / {{vm.farmobjectCount}}"
+                         right-text="Page {{vm.paging.currentPage}} of {{vm.paging.pageCount}}">
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="widget-content user">
+                        <div class="padd"
+                             data-ng-repeat="fo in vm.farmobjects"
+                             data-ng-click="vm.gotoFarmObject(fo)">
+                            <div class="user" title="Go to Farm Object details">
+                                <img data-cr-img-appliance="{{fo.hardwareObject.imageSource}}"
+                                     class="img-polaroid user-pic" />
+                                <div class="user-details">
+                                    <small class="hidden-sm">Updated: {{fo.updatedOn}}</small>
+                                    <small class="right hidden-xs">Room: {{fo.rack.room.name}}</small>
+                                    <small class="right hidden-xs">Rack: {{fo.rack.name}}</small>                                   
+                                    <h5>{{fo.name}}</h5>
+                                    <small class="text-subtle">Serial No: {{fo.serial}}</small><br />
+                                    <small>Model: {{fo.hardwareObject.brandModel}}</small><br />                                 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="widget-foot">
+                        <div class="clearfix"></div>
+                        <pagination boundary-links="true"
+                                    on-select-page="vm.pageChanged(page)"
+                                    total-items="vm.farmobjectFilteredCount"
+                                    items-per-page="vm.paging.pageSize"
+                                    page="vm.paging.currentPage"
+                                    max-size="vm.paging.maxPagesToShow"
+                                    class="pagination-sm"
+                                    previous-text="Prev"
+                                    next-text="Next"
+                                    first-text="First"
+                                    last-text="Last"></pagination>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

@@ -1,0 +1,93 @@
+﻿<section class="mainbar" data-ng-controller="lundetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deleteStorage()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.lun && vm.lun.lunLabel || 'New LUN'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>LUN Label</label><br />
+                            <input data-ng-model="vm.lun.lunLabel"
+                                   data-z-validate
+                                   placeholder="Lun Label" /><br /><br />
+                            <label>Is Boot LUN</label>
+                            <input type="checkbox" data-ng-model="vm.lun.isBootLun"
+                                   data-z-validate /><br /><br />
+                            <label>Size</label><br />
+                            <input data-ng-model="vm.lun.size"
+                                   data-z-validate
+                                   placeholder="Size" /><br /><br />
+                            <label>LUN Scsi Id</label><br />
+                            <input data-ng-model="vm.lun.lunScsiId"
+                                   data-z-validate
+                                   placeholder="Lun SCSI Id" /><br /><br />
+                            <label>UID Serial</label><br />
+                            <input data-ng-model="vm.lun.uidSerial"
+                                   data-z-validate
+                                   placeholder="Uid Serial" /><br /><br />
+                            <label>Target WWPN</label><br />
+                            <input data-ng-model="vm.lun.wWPN"
+                                   data-z-float
+                                   data-z-validate
+                                   placeholder="WWPN" /><br /><br />
+                            <label>Lun Scenario</label><br />
+                            <input data-ng-model="vm.lun.lunScenario"
+                                   data-z-float
+                                   data-z-validate
+                                   placeholder="Scenario" /><br /><br />
+                            <label>Virtual Machine/s using this Raw Device Mapped LUN</label><br />
+                            <input data-ng-model="vm.lun.VirtualMachineRawDeviceMapped"
+                                   data-z-validate
+                                   placeholder="Virtual Machine/s" /><br /><br />
+                            <label>Hostname</label><br />
+                            <select data-ng-options="fo.name for fo in vm.farmObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.lun.farmObject"></select><br />
+                            <small>For all data LUNs of a cluster associate storage<br />ONLY to the primary node. Boot LUNs alone MUST be<br />associated to EACH individual node.</small>
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewLun">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.lun.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.lun.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.lun.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.lun.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

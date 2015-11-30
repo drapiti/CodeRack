@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('farmObject.name')" href="">Farm Object</a></th>
+                <th><a data-ng-click="vm.setSort('diskLabel')" href="">Disk Label</a></th>
+                <th><a data-ng-click="vm.setSort('size')" href="">Size</a></th>
+                <th><a data-ng-click="vm.setSort('type')" href="">Device Type</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.virtualDisks | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoDisk(item)">
+                <td>{{item.farmObject.name}}</td>
+                <td>{{item.diskLabel}}</td>
+                <td>{{item.size}}</td>
+                <td>{{item.type}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

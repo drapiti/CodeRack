@@ -1,0 +1,28 @@
+D:\Project\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+D:\Project\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+D:\Project\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+D:\Project\CodeRack\CR.Model\obj\Debug\CR.Model.pdb
+E:\Tesi\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+E:\Tesi\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+E:\Tesi\CodeRack\CR.Model\obj\Debug\CR.Model.csprojResolveAssemblyReference.cache
+E:\Tesi\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+E:\Tesi\CodeRack\CR.Model\obj\Debug\CR.Model.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\obj\Debug\CR.Model.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.pdb
+D:\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+D:\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+D:\CodeRack\CR.Model\obj\Debug\CR.Model.csprojResolveAssemblyReference.cache
+D:\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+D:\CodeRack\CR.Model\obj\Debug\CR.Model.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\bin\Debug\CR.Model.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\bin\Debug\CR.Model.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Debug\CR.Model.pdb

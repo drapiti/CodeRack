@@ -1,0 +1,37 @@
+﻿<section class="mainbar" data-ng-controller="login as vm">
+    <section class="matter">
+        <div class="container">
+            <div class="row">
+                <div class="widget wviolet">
+                    <div data-cr-widget-header title="{{vm.title}}"></div>
+                    <div class="widget-content user">
+                        <br/>
+                        <h6>Welcome {{auth.profile.name}}</h6>
+                        <br />
+                        <span><img data-ng-src="{{auth.profile.picture}}"></span>
+                        <br/>
+                        <span>user_id: {{auth.profile.user_id}}</span>
+                        <br/>
+                        <span>name: {{auth.profile.name}}</span>
+                        <br />
+                        <span>email: {{auth.profile.email}}</span>
+                        <br />
+                        <span>nickname: {{auth.profile.nickname}}</span>
+                        <br />                        
+                        <span>family_name: {{auth.profile.family_name}}</span>
+                        <br />
+                        <span>roles: {{auth.profile.roles}}</span>
+                        <br />
+                        <span>access_token: {{auth.profile.access_token}}</span>
+                        <br />
+                        <span>access_token_secret: {{auth.profile.access_token_secret}}</span>
+                        <br />                        
+                    </div>
+                    <div class="widget-foot">
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

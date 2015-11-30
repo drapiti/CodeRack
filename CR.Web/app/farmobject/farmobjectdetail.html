@@ -1,0 +1,122 @@
+﻿<section class="mainbar" data-ng-controller="farmobjectdetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deleteFarmObject()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.farmObject && vm.farmObject.name || 'New Farm Object'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>Name</label><br />
+                            <input data-ng-model="vm.farmObject.name"
+                                   data-z-validate
+                                   placeholder="Name" /><br /><br />
+                            <label>Serial</label><br />
+                            <input data-ng-model="vm.farmObject.serial"
+                                   data-z-validate
+                                   placeholder="Serial" /><br /><br />
+                            <label>Boot Type</label><br />
+                            <select data-ng-options="b.name for b in vm.bootTypes"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.bootType"></select><br /><br />
+                            <label>Cluster Name</label><br />
+                            <select data-ng-options="c.name for c in vm.clusters"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.cluster"></select><br /><br />
+                            <label>Operating System</label><br />
+                            <select data-ng-options="os.description for os in vm.operatingSystems"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.operatingSystem"></select><br /><br />
+                            <label>Service</label><br />
+                            <select data-ng-options="s.label for s in vm.services"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.serviceLevel.service"></select><br /><br />
+                            <label>Service Level</label><br />
+                            <select data-ng-options="sl.name for sl in vm.serviceLevels"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.serviceLevel"></select><br /><br />
+                            <label>Room</label><br />
+                            <select data-ng-options="ro.name for ro in vm.rooms"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.rack.room"></select><br /><br />
+                            <label>Rack</label><br />
+                            <select data-ng-options="ra.name for ra in vm.racks"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.rack"></select><br><br />
+                            <label>CPUs</label><br />
+                            <input data-ng-model="vm.farmObject.cPUs"
+                                   data-z-validate
+                                   placeholder="No. of CPU sockets" /><br /><br />
+                            <label>Ram</label><br />
+                            <input data-ng-model="vm.farmObject.ram"
+                                   data-z-validate
+                                   placeholder="Ram" /><br /><br />
+                            <label>Brand/Model</label><br />
+                            <select data-ng-options="op.brandModel for op in vm.hardwareObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.hardwareObject"></select><br /><br />
+                            <label>Parent Name</label><br />
+                            <select data-ng-options="p.name for p in vm.parentObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.parentObject"></select><br /><br />
+                            <label>Backup Policy (VM Only)</label><br />
+                            <select data-ng-options="bkpv.name for bkpv in vm.bkPolicyVMs"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.bkPolicyVM"></select><br /><br />
+                            <label>Backup Policy (Physical Server Only)</label><br />
+                            <select data-ng-options="bkpp.label for bkpp in vm.bkPolicyPMs"
+                                    data-z-validate
+                                    data-ng-model="vm.farmObject.bkPolicyPM"></select><br /><br />
+                            <label>Chassis Node Position</label><br />
+                            <input data-ng-model="vm.farmObject.nodePosition"
+                                   data-z-validate
+                                   placeholder="Node Position" /><br /><br />
+                            <label>Notes</label><br />
+                            <textarea data-ng-model="vm.farmObject.notes"
+                                      data-z-validate
+                                      placeholder="Notes" /><br />
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewFarmObject">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.farmObject.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.farmObject.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.farmObject.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.farmObject.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

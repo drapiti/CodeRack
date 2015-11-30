@@ -1,0 +1,83 @@
+﻿<section class="mainbar" data-ng-controller="linkdetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deleteLink()"
+                        data-ng-disabled="!vm.canDelete">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.link && vm.link.labelServerEndpoint || 'New Link'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>Label Server Endpoint</label><br />
+                            <input data-ng-model="vm.link.labelServerEndpoint"
+                                   data-z-validate
+                                   size="60"
+                                   placeholder="Year module line - Rack Server - Server Name nic - PDL" /><br /><br />
+                            <label>Label TLC Endpoint</label><br />
+                            <input data-ng-model="vm.link.labelTlcEndpoint"
+                                   data-z-validate
+                                   size="60"
+                                   placeholder="Year module line - Rack TLC - Switch Name - Port SW - PDL" /><br /><br />
+                            <label>Label PreCabling Harness (LC Endpoint)</label><br />
+                            <input data-ng-model="vm.link.labelPreCabling"
+                                   data-z-validate
+                                   size="60"
+                                   placeholder="Progressive No. Harness - No. Ch (From 1 to 6) - Passive Rack - Cabinet Name - Row - Slot - Port" /><br /><br />
+                            <label>Label Jump</label><br />
+                            <input data-ng-model="vm.link.labelJump"
+                                   data-z-validate
+                                   size="60"
+                                   placeholder="Year module row - PDL" /><br /><br />
+                            <label>Media Type</label><br />
+                            <input data-ng-model="vm.link.mediaType"
+                                   data-z-validate
+                                   placeholder="Media Type" /><br /><br />
+                            <label>Speed</label><br />
+                            <input data-ng-model="vm.link.speed"
+                                   data-z-validate
+                                   placeholder="Speed" /><br /><br />                           
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewLink">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.link.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.link.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.link.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.link.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

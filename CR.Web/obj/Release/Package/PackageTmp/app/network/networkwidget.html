@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('address')" href="">Network</a></th>
+                <th><a data-ng-click="vm.setSort('vlan')" href="">Vlan ID</a></th>
+                <th><a data-ng-click="vm.setSort('description')" href="">Description</a></th>
+                <th><a data-ng-click="vm.setSort('service.name')" href="">Service</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.networks | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoNetwork(item)">
+                <td>{{item.address}}</td>
+                <td>{{item.vlan}}</td>
+                <td>{{item.description}}</td>
+                <td>{{item.service.name}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

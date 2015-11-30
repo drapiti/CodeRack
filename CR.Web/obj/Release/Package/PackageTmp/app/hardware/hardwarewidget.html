@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('brand')" href="">Brand</a></th>
+                <th><a data-ng-click="vm.setSort('model')" href="">Model</a></th>
+                <th><a data-ng-click="vm.setSort('rackUnitSize')" href="">Rack Unit Size</a></th>
+                <th><a data-ng-click="vm.setSort('powerIndex')" href="">Power Index</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.hardware | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoHardware(item)">
+                <td>{{item.brand}}</td>
+                <td>{{item.model}}</td>
+                <td>{{item.rackUnitSize}}</td>
+                <td>{{item.powerIndex}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

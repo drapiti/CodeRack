@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>          
+                <th><a data-ng-click="vm.setSort('labelServerEndpoint')" href="">Label Server Endpoint</a></th>
+                <th><a data-ng-click="vm.setSort('labelTlcEndpoint')" href="">Label TLC Endpoint</a></th>
+                <th><a data-ng-click="vm.setSort('labelPreCabling')" href="">Label PreCabling Harness (LC Endpoint)</a></th>
+                <th><a data-ng-click="vm.setSort('labelJump')" href="">Label Jump</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.links | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoLink(item)">       
+                <td>{{item.labelServerEndpoint}}</td>
+                <td>{{item.labelTlcEndpoint}}</td>
+                <td>{{item.labelPreCabling}}</td>
+                <td>{{item.labelJump}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

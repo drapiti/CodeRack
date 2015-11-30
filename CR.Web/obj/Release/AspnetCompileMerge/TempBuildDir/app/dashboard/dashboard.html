@@ -1,0 +1,387 @@
+﻿<section id="dashboard-view" class="mainbar" data-ng-controller="dashboard as vm">
+    <section class="matter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="today-datas">
+                        <li class="bviolet">
+                            <a href="#/hardware">
+                                <div class="pull-left"><i class="fa fa-camera"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.hardwareCount}}</span> Hardware
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="borange">
+                            <a href="#/farmobject">
+                                <div class="pull-left"><i class="fa fa-server"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.farmObjectCount}}</span> Farm Objects
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="blightblue">
+                            <a href="#/network">
+                                <div class="pull-left"><i class="fa fa-sitemap"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.networkCount}}</span> Networks
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="bviolet">
+                            <a href="#/reservation">
+                                <div class="pull-left"><i class="fa fa-bookmark-o"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.reservationCount}}</span> Reservations
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="borange">
+                            <a href="#/link">
+                                <div class="pull-left"><i class="fa fa-unlink"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.linkCount}}</span> Provision Links
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="blightblue">
+                            <a href="#/port">
+                                <div class="pull-left"><i class="fa fa-link"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.portLinkCount}}</span> Active Links
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="bviolet">
+                            <a href="#/lun">
+                                <div class="pull-left"><i class="fa fa-hdd-o"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.lunCount}}</span> SAN LUNs
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                        <li class="borange">
+                            <a href="#/virtualdisk">
+                                <div class="pull-left"><i class="fa fa-hdd-o"></i></div>
+                                <div class="datas-text pull-right">
+                                    <span class="bold">{{vm.diskCount}}</span> Virtual Disks
+                                </div>
+                                <div class="clearfix"></div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="widget wviolet">
+                        <div data-cr-widget-header title="{{vm.lun.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.lunSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.lun.setSort('service')" href="">Service Name</a></th>
+                                        <th><a data-ng-click="vm.lun.setSort('count')" href="">Luns</a></th>
+                                        <th><a data-ng-click="vm.lun.setSort('utilizedStorage')" href="">Utilized Storage (Gb)</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="lun in vm.lun.allocation | orderBy:vm.lun.predicate:vm.lun.reverse | filter:vm.lunSearch | limitTo:limit track by $index">
+                                        <td>{{lun.service}}</td>
+                                        <td>{{lun.count}}</td>
+                                        <td>{{lun.utilizedStorage}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="widget worange">
+                        <div data-cr-widget-header title="{{vm.disk.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.diskSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.disk.setSort('service')" href="">Service Name</a></th>
+                                        <th><a data-ng-click="vm.disk.setSort('count')" href="">Disks</a></th>
+                                        <th><a data-ng-click="vm.disk.setSort('utilizedStorage')" href="">Utilized Storage (Gb)</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="d in vm.disk.allocation | orderBy:vm.disk.predicate:vm.disk.reverse | filter:vm.diskSearch | limitTo:limit track by $index">
+                                        <td>{{d.service}}</td>
+                                        <td>{{d.count}}</td>
+                                        <td>{{d.utilizedStorage}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="widget wlightblue">
+                        <div data-cr-widget-header title="{{vm.farmObjects.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <carousel class="carousel-inner" interval="vm.farmObjects.interval">
+                                <slide data-ng-repeat="fo in vm.farmObjects.list" active="fo.active">
+                                    <img data-cr-img-appliance="{{fo.hardwareObject.imageSource}}" class="img-polaroid user-carousel" />
+                                    <div class=" carousel-caption">
+                                        <h4>{{fo.name}}</h4>
+                                    </div>
+                                </slide>
+                            </carousel>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="widget wlightblue">
+                        <div data-cr-widget-header title="{{vm.rack.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.rackSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.rack.setSort('rack')" href="">Rack Name</a></th>
+                                        <th><a data-ng-click="vm.rack.setSort('count')" href="">Installed Objects</a></th>
+                                        <th><a data-ng-click="vm.rack.setSort('utilizedSpace')" href="">Used Rack Units</a></th>
+                                        <th><a data-ng-click="vm.rack.setSort('utilizedPower')" href="">Used Power (PI)</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="r in vm.rack.allocation | orderBy:vm.rack.predicate:vm.rack.reverse | filter:vm.rackSearch | limitTo:limit track by $index">
+                                        <td>{{r.rack}}</td>
+                                        <td>{{r.count}}</td>
+                                        <td>{{r.utilizedSpace}}</td>
+                                        <td>{{r.utilizedPower}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="widget worange">
+                        <div data-cr-widget-header title="{{vm.port.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.portSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.port.setSort('farmObject')" href="">Farm Object</a></th>
+                                        <th><a data-ng-click="vm.port.setSort('count')" href="">In Use</a></th>
+                                        <th><a data-ng-click="vm.port.setSort('available')" href="">Available</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="p in vm.port.allocation | orderBy:vm.port.predicate:vm.port.reverse | filter:vm.portSearch | limitTo:limit track by $index">
+                                        <td>{{p.farmObject}}</td>
+                                        <td>{{p.count}}</td>
+                                        <td>{{p.available}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="widget wviolet">
+                        <div data-cr-widget-header title="{{vm.server.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.serverServiceSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />                       
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.server.setSort('service')" href="">Service Name</a></th>
+                                        <th><a data-ng-click="vm.server.setSort('physical')" href="">Physical</a></th>
+                                        <th><a data-ng-click="vm.server.setSort('virtual')" href="">Virtual</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="s in vm.server.distribution | orderBy:vm.server.predicate:vm.server.reverse | filter:vm.serverServiceSearch | limitTo:limit track by $index">
+                                        <td>{{s.service}}</td>
+                                        <td>{{s.physical}}</td>
+                                        <td>{{s.virtual}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>             
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="widget wviolet">
+                        <div data-cr-widget-header title="{{vm.hardware.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.hardwareSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.hardware.setSort('parentName')" href="">Parent Farm Object</a></th>
+                                        <th><a data-ng-click="vm.hardware.setSort('farmObjects')" href="">Child Farm Objects</a></th>
+                                        <th><a data-ng-click="vm.hardware.setSort('nodeCapacity')" href="">Remaining Capacity</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="h in vm.hardware.allocation | orderBy:vm.hardware.predicate:vm.hardware.reverse | filter:vm.hardwareSearch | limitTo:limit track by $index">
+                                        <td>{{h.parentName}}</td>
+                                        <td>{{h.farmObjects}}</td>
+                                        <td>{{h.nodeCapacity}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>                
+                <div class="col-md-6">
+                    <div class="widget wlightblue">
+                        <div data-cr-widget-header title="{{vm.virtual.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.virtualSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.virtual.setSort('service')" href="">Service Name</a></th>
+                                        <th><a data-ng-click="vm.virtual.setSort('cpuVirtual')" href="">Allocated CPUs</a></th>
+                                        <th><a data-ng-click="vm.virtual.setSort('ramVirtual')" href="">Allocated Ram (Gb)</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="v in vm.virtual.allocation | orderBy:vm.virtual.predicate:vm.virtual.reverse | filter:vm.virtualSearch | limitTo:limit track by $index">
+                                        <td>{{v.service}}</td>
+                                        <td>{{v.cpuVirtual}}</td>
+                                        <td>{{v.ramVirtual}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>              
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="widget worange" data-ng-controller="wip as vm">
+                        <div data-cr-widget-header title="{{vm.title}}" subtitle="{{vm.wip.length}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content" data-ng-include="'/app/wip/wipwidget.html'">
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="widget wviolet">
+                        <div data-cr-widget-header title="{{vm.power.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <input class="input-sm search-query"
+                                   data-ng-model="vm.powerSearch"
+                                   data-ng-keyup="vm.search($event)"
+                                   placeholder="live search.." />
+                            <table class="table table-condensed table-striped">
+                                <thead>
+                                    <tr>
+                                        <th><a data-ng-click="vm.power.setSort('service')" href="">Service Name</a></th>
+                                        <th><a data-ng-click="vm.power.setSort('cpuPower')" href="">Allocated CPUs</a></th>
+                                        <th><a data-ng-click="vm.power.setSort('entitledCapacity')" href="">Entitled Capacity</a></th>
+                                        <th><a data-ng-click="vm.power.setSort('ramPower')" href="">Allocated Ram (Gb)</a></th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr data-ng-repeat="p in vm.power.allocation | orderBy:vm.power.predicate:vm.power.reverse | filter:vm.powerSearch | limitTo:limit track by $index">
+                                        <td>{{p.service}}</td>
+                                        <td>{{p.cpuPower}}</td>
+                                        <td>{{p.entitledCapacity}}</td>
+                                        <td>{{p.ramPower}}</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="widget wgreen">
+                        <div data-cr-widget-header title="{{vm.news.title}}"
+                             allow-collapse="true"></div>
+                        <div class="widget-content text-center text-info">
+                            <small>{{vm.news.description}}</small>
+                        </div>
+                        <div class="widget-foot">
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+</section>

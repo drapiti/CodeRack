@@ -1,0 +1,71 @@
+﻿<section class="mainbar" data-ng-controller="virtualdiskdetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deleteStorage()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.virtualDisk && vm.virtualDisk.diskLabel || 'New Disk'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>Disk Label</label><br />
+                            <input data-ng-model="vm.virtualDisk.diskLabel"
+                                   data-z-validate
+                                   placeholder="Disk Label" /><br /><br />
+                            <label>Size</label><br />
+                            <input data-ng-model="vm.virtualDisk.size"
+                                   data-z-validate
+                                   placeholder="Size" /><br /><br />
+                            <label>Device Type</label><br />
+                            <input data-ng-model="vm.virtualDisk.type"
+                                   data-z-validate
+                                   placeholder="Device Type" /><br /><br />
+                            <label>Hostname </label><br />
+                            <select data-ng-options="fo.name for fo in vm.farmObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.virtualDisk.farmObject"></select><br />
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewDisk">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.virtualDisk.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.virtualDisk.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.virtualDisk.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.virtualDisk.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

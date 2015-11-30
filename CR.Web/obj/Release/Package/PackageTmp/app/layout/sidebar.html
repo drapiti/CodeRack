@@ -1,0 +1,41 @@
+﻿<div data-cr-sidebar data-ng-controller="sidebar as vm">
+    <div class="sidebar-filler"></div>
+    <div class="sidebar-dropdown"><a href="#">Menu</a></div>
+    <div class="sidebar-inner" style="display: block">
+        <div class="sidebar-widget">
+            <form class="row container-fluid">
+                <div class="input-group container-fluid">
+                    <input type="text" class="form-control"
+                           placeholder="Find Farm Object"
+                           data-ng-model="vm.searchText"
+                           data-ng-keyup="vm.search($event)">
+                    <a class="btn btn-info btn-notext input-group-addon" data-ng-click="vm.search($event)"><i class="fa fa-search"></i></a>
+                </div>
+            </form>
+        </div>
+        <ul class="navi">
+            <li class="nlightblue fade-selection-animation" data-ng-class="vm.isCurrent(r)"
+                data-ng-repeat="r in vm.navRoutes">
+                <a href="#{{r.url}}" data-ng-bind-html="r.config.settings.content"></a>
+            </li>
+            <li data-cr-wip
+                wip="vm.wip"
+                routes="vm.routes"
+                changed-event="{{vm.wipChangedEvent}}"
+                class="nlightblue">                
+            </li>
+            <li class="nlightblue">
+                <a href="" data-ng-click="vm.clearStorage()">
+                    <i class="fa fa-cloud"></i> Clear Storage
+                    <span class="pull-right"></span>
+                </a>
+            </li>
+            <li class="nlightblue">
+                <a href="" data-ng-click="logout()">
+                    <i class="fa fa-sign-out"></i> Log out
+                    <span class="pull-right"></span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

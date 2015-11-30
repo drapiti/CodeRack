@@ -1,0 +1,85 @@
+﻿<section class="mainbar" data-ng-controller="hardwaredetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deletehardware()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.hardware && vm.hardware.model || 'New Object Profile'}}"></div>
+                <div class="widget-content user">
+                    <div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <br />
+                                <label>Hardware Type</label><br />
+                                <select data-ng-options="hw.name for hw in vm.hardwareTypes"
+                                        data-z-validate
+                                        data-ng-model="vm.hardware.hardwareType"></select><br /><br />
+                                <label>Brand</label><br />
+                                <input data-ng-model="vm.hardware.brand"
+                                       data-z-validate
+                                       placeholder="Brand" /><br /><br />
+                                <label>Model</label><br />
+                                <input data-ng-model="vm.hardware.model"
+                                       data-z-validate
+                                       placeholder="Model" /><br /><br />
+                                <label>Rack Unit Size</label><br />
+                                <input data-ng-model="vm.hardware.rackUnitSize"
+                                       data-z-validate
+                                       placeholder="Rack Unit Size" /><br /><br />
+                                <label>Power Index</label><br />
+                                <input data-ng-model="vm.hardware.powerIndex"
+                                       data-z-float
+                                       data-z-validate
+                                       placeholder="Power Index" /><br /><br />
+                                <label>No. of Ports</label><br />
+                                <input data-ng-model="vm.hardware.portCapacity"
+                                       data-z-validate
+                                       placeholder="Power Index" /><br /><br />
+                                <label>Image Source</label><br />
+                                <input data-ng-model="vm.hardware.imageSource"
+                                       data-z-validate
+                                       placeholder="Image Source include .svg extension" />
+                            </div>
+                            <div class="col-md-6" data-ng-switch="!!vm.isNewHardware">
+                                <div class="text-subtle" data-ng-switch-when="false">
+                                    <br /><br />
+                                    <label>Created By</label><br />
+                                    <small>{{vm.hardware.createdBy}}</small><br /><br />
+                                    <label>Created On</label><br />
+                                    <small>{{vm.hardware.createdOn}}</small><br /><br />
+                                    <label>Updated By</label><br />
+                                    <small>{{vm.hardware.updatedBy}}</small><br /><br />
+                                    <label>Updated On</label><br />
+                                    <small>{{vm.hardware.updatedOn}}</small><br /><br />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </div>
+    </section>
+</section>

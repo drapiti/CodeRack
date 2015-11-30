@@ -1,0 +1,19 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('lunLabel')" href="">Lun Label</a></th>
+                <th><a data-ng-click="vm.setSort('size')" href="">Size</a></th>
+                <th><a data-ng-click="vm.setSort('lunScenario')" href="">LUN Scenario</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.luns | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoLun(item)">                
+                <td>{{item.lunLabel}}</td>
+                <td>{{item.size}}</td>
+                <td>{{item.lunScenario}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

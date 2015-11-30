@@ -1,0 +1,2947 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generato da Microsoft Visio, esportazione SVG Disegno2.svg Pagina 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="60%" height="100%" viewBox="0 0 398.963 111.91" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st2">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.072}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Pagina 1</title>
+		<g id="group2-1" transform="translate(1.05614,-14.4037)">
+			<title>UCS B200 M3</title>
+			<g id="shape3-2" transform="translate(-1.02014,1.02014)">
+				<title>Foglio.3</title>
+				<rect x="0" y="13.4196" width="398.891" height="98.49" class="st1"/>
+				<svg viewBox="0 0 773.9 191.17" height="98.49" preserveAspectRatio="none" width="398.891" x="0" y="13.4196">
+					<clipPath id="mfid1">
+						<rect width="773.9" height="191.17" id="mfid2"/>
+					</clipPath>
+					<g clip-path="url(#mfid1)">
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#bfbfbf">
+									<rect x="2" y="2" width="768" height="187" stroke="none"/>
+									<defs>
+										<path id="mfid3" d="M2,189 L770,189 L770,2 L2,2 L2,189 Z"/>
+									</defs>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid3" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid4" d="M340,189 L772,189 L772,181 L340,181 L340,189 Z"/>
+						</defs>
+						<mask id="mfid5">
+							<use xlink:href="#mfid4" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid6" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid5)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid7" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.042162" x2="4.5104"
+								y2="0.042162" spreadMethod="repeat"
+								gradientTransform="matrix(1, -0, -0, 1, 0.00000000072189, 0.000000001267)">
+							<stop offset="0" stop-color="#e2e2e2"/>
+							<stop offset="1" stop-color="#d8d8d8"/>
+						</linearGradient>
+						<g mask="url(#mfid6)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 340.23, 189.18)">
+									<g fill="url(#mfid7)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="4.5208" height="0.10516" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid7)" stroke-width="0.33333" stroke="#7f7f7f" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid4" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid8" d="M342,189 L393,189 L393,177 L342,177 L342,189 Z"/>
+						</defs>
+						<mask id="mfid9">
+							<use xlink:href="#mfid8" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid10" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid9)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid11" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.060937" x2="0.54167"
+								y2="0.060937" spreadMethod="repeat"
+								gradientTransform="matrix(-0.0000010796, 0.25849, -3.8686, -0.000000065261, 0.50137, -0.0077241)">
+							<stop offset="0" stop-color="#f2f2f2"/>
+							<stop offset="1" stop-color="#7f7f7f"/>
+						</linearGradient>
+						<g mask="url(#mfid10)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 341.73, 189.18)">
+									<g fill="url(#mfid11)" stroke-width="0.33333" stroke="#7f7f7f" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.55208" height="0.14271" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid12" d="M334,189 L340,189 L340,181 L334,181 L334,189 Z"/>
+						</defs>
+						<mask id="mfid13">
+							<use xlink:href="#mfid12" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid14" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid13)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid15" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.042162" x2="0.072917"
+								y2="0.042162" spreadMethod="repeat">
+							<stop offset="0" stop-color="#bfbfbf"/>
+							<stop offset="1" stop-color="#595959"/>
+						</linearGradient>
+						<g mask="url(#mfid14)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 334.23, 189.18)">
+									<g fill="url(#mfid15)" stroke-width="0.33333" stroke="#7f7f7f" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.083333" height="0.10516" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#f2f2f2" stroke-width="0.33333" stroke="#7f7f7f" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="51" y="184" width="192" height="5" stroke="none"/>
+									<defs>
+										<path id="mfid16" d="M51,189 L243,189 L243,184 L51,184 L51,189 Z"/>
+									</defs>
+								</g>
+								<g fill="#f2f2f2" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid16" fill="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="243" y="184" width="36" height="5" stroke="none"/>
+									<defs>
+										<path id="mfid17" d="M243,189 L279,189 L279,184 L243,184 L243,189 Z"/>
+									</defs>
+									<use xlink:href="#mfid17" fill="none"/>
+									<defs>
+										<path id="mfid18" d="M318,115 L326,111 L326,102 L318,98 L311,102 L311,111 L318,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid18" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid18" fill="none"/>
+									<defs>
+										<path id="mfid19" d="M300,115 L307,111 L307,102 L300,98 L292,102 L292,111 L300,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid19" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid19" fill="none"/>
+									<defs>
+										<path id="mfid20" d="M170,115 L178,111 L178,102 L170,98 L163,102 L163,111 L170,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid20" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid20" fill="none"/>
+									<defs>
+										<path id="mfid21" d="M152,115 L160,111 L160,102 L152,98 L144,102 L144,111 L152,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid21" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid21" fill="none"/>
+									<defs>
+										<path id="mfid22" d="M207,115 L215,111 L215,102 L207,98 L200,102 L200,111 L207,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid22" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid22" fill="none"/>
+									<defs>
+										<path id="mfid23" d="M189,115 L197,111 L197,102 L189,98 L181,102 L181,111 L189,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid23" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid23" fill="none"/>
+									<defs>
+										<path id="mfid24" d="M244,115 L252,111 L252,102 L244,98 L237,102 L237,111 L244,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid24" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid24" fill="none"/>
+									<defs>
+										<path id="mfid25" d="M226,115 L233,111 L233,102 L226,98 L218,102 L218,111 L226,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid25" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid25" fill="none"/>
+									<defs>
+										<path id="mfid26" d="M281,115 L289,111 L289,102 L281,98 L274,102 L274,111 L281,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid26" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid26" fill="none"/>
+									<defs>
+										<path id="mfid27" d="M263,115 L270,111 L270,102 L263,98 L255,102 L255,111 L263,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid27" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid27" fill="none"/>
+									<defs>
+										<path id="mfid28" d="M23,115 L30,111 L30,102 L23,98 L15,102 L15,111 L23,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid28" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid28" fill="none"/>
+									<defs>
+										<path id="mfid29" d="M59,115 L67,111 L67,102 L59,98 L52,102 L52,111 L59,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid29" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid29" fill="none"/>
+									<defs>
+										<path id="mfid30" d="M41,115 L49,111 L49,102 L41,98 L33,102 L33,111 L41,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid30" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid30" fill="none"/>
+									<defs>
+										<path id="mfid31" d="M96,115 L104,111 L104,102 L96,98 L89,102 L89,111 L96,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid31" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid31" fill="none"/>
+									<defs>
+										<path id="mfid32" d="M78,115 L86,111 L86,102 L78,98 L70,102 L70,111 L78,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid32" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid32" fill="none"/>
+									<defs>
+										<path id="mfid33" d="M133,115 L141,111 L141,102 L133,98 L126,102 L126,111 L133,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid33" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid33" fill="none"/>
+									<defs>
+										<path id="mfid34" d="M115,115 L123,111 L123,102 L115,98 L107,102 L107,111 L115,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid34" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid34" fill="none"/>
+									<defs>
+										<path id="mfid35" d="M632,115 L640,111 L640,102 L632,98 L625,102 L625,111 L632,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid35" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid35" fill="none"/>
+									<defs>
+										<path id="mfid36" d="M614,115 L622,111 L622,102 L614,98 L606,102 L606,111 L614,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid36" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid36" fill="none"/>
+									<defs>
+										<path id="mfid37" d="M485,115 L492,111 L492,102 L485,98 L477,102 L477,111 L485,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid37" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid37" fill="none"/>
+									<defs>
+										<path id="mfid38" d="M466,115 L474,111 L474,102 L466,98 L458,102 L458,111 L466,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid38" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid38" fill="none"/>
+									<defs>
+										<path id="mfid39" d="M522,115 L529,111 L529,102 L522,98 L514,102 L514,111 L522,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid39" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid39" fill="none"/>
+									<defs>
+										<path id="mfid40" d="M503,115 L511,111 L511,102 L503,98 L495,102 L495,111 L503,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid40" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid40" fill="none"/>
+									<defs>
+										<path id="mfid41" d="M559,115 L566,111 L566,102 L559,98 L551,102 L551,111 L559,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid41" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid41" fill="none"/>
+									<defs>
+										<path id="mfid42" d="M540,115 L548,111 L548,102 L540,98 L532,102 L532,111 L540,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid42" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid42" fill="none"/>
+									<defs>
+										<path id="mfid43" d="M595,115 L603,111 L603,102 L595,98 L588,102 L588,111 L595,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid43" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid43" fill="none"/>
+									<defs>
+										<path id="mfid44" d="M577,115 L585,111 L585,102 L577,98 L569,102 L569,111 L577,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid44" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid44" fill="none"/>
+									<defs>
+										<path id="mfid45" d="M337,115 L344,111 L344,102 L337,98 L329,102 L329,111 L337,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid45" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid45" fill="none"/>
+									<defs>
+										<path id="mfid46" d="M374,115 L381,111 L381,102 L374,98 L366,102 L366,111 L374,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid46" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid46" fill="none"/>
+									<defs>
+										<path id="mfid47" d="M355,115 L363,111 L363,102 L355,98 L348,102 L348,111 L355,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid47" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid47" fill="none"/>
+									<defs>
+										<path id="mfid48" d="M411,115 L418,111 L418,102 L411,98 L403,102 L403,111 L411,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid48" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid48" fill="none"/>
+									<defs>
+										<path id="mfid49" d="M392,115 L400,111 L400,102 L392,98 L385,102 L385,111 L392,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid49" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid49" fill="none"/>
+									<defs>
+										<path id="mfid50" d="M448,115 L455,111 L455,102 L448,98 L440,102 L440,111 L448,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid50" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid50" fill="none"/>
+									<defs>
+										<path id="mfid51" d="M429,115 L437,111 L437,102 L429,98 L421,102 L421,111 L429,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid51" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid51" fill="none"/>
+									<defs>
+										<path id="mfid52" d="M651,115 L659,111 L659,102 L651,98 L643,102 L643,111 L651,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid52" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid52" fill="none"/>
+									<defs>
+										<path id="mfid53" d="M688,115 L696,111 L696,102 L688,98 L680,102 L680,111 L688,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid53" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid53" fill="none"/>
+									<defs>
+										<path id="mfid54" d="M669,115 L677,111 L677,102 L669,98 L662,102 L662,111 L669,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid54" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid54" fill="none"/>
+									<defs>
+										<path id="mfid55" d="M725,115 L733,111 L733,102 L725,98 L717,102 L717,111 L725,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid55" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid55" fill="none"/>
+									<defs>
+										<path id="mfid56" d="M706,115 L714,111 L714,102 L706,98 L699,102 L699,111 L706,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid56" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid56" fill="none"/>
+									<defs>
+										<path id="mfid57" d="M743,115 L751,111 L751,102 L743,98 L736,102 L736,111 L743,115 Z"/>
+									</defs>
+									<use xlink:href="#mfid57" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid57" fill="none"/>
+									<defs>
+										<path id="mfid58" d="M309,131 L317,127 L317,118 L309,113 L301,118 L301,127 L309,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid58" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid58" fill="none"/>
+									<defs>
+										<path id="mfid59" d="M291,131 L298,127 L298,118 L291,113 L283,118 L283,127 L291,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid59" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid59" fill="none"/>
+									<defs>
+										<path id="mfid60" d="M161,131 L169,127 L169,118 L161,113 L154,118 L154,127 L161,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid60" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid60" fill="none"/>
+									<defs>
+										<path id="mfid61" d="M143,131 L150,127 L150,118 L143,113 L135,118 L135,127 L143,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid61" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid61" fill="none"/>
+									<defs>
+										<path id="mfid62" d="M198,131 L206,127 L206,118 L198,113 L191,118 L191,127 L198,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid62" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid62" fill="none"/>
+									<defs>
+										<path id="mfid63" d="M180,131 L187,127 L187,118 L180,113 L172,118 L172,127 L180,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid63" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid63" fill="none"/>
+									<defs>
+										<path id="mfid64" d="M235,131 L243,127 L243,118 L235,113 L228,118 L228,127 L235,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid64" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid64" fill="none"/>
+									<defs>
+										<path id="mfid65" d="M217,131 L224,127 L224,118 L217,113 L209,118 L209,127 L217,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid65" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid65" fill="none"/>
+									<defs>
+										<path id="mfid66" d="M272,131 L280,127 L280,118 L272,113 L265,118 L265,127 L272,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid66" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid66" fill="none"/>
+									<defs>
+										<path id="mfid67" d="M254,131 L261,127 L261,118 L254,113 L246,118 L246,127 L254,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid67" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid67" fill="none"/>
+									<defs>
+										<path id="mfid68" d="M50,131 L58,127 L58,118 L50,113 L43,118 L43,127 L50,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid68" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid68" fill="none"/>
+									<defs>
+										<path id="mfid69" d="M32,131 L40,127 L40,118 L32,113 L24,118 L24,127 L32,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid69" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid69" fill="none"/>
+									<defs>
+										<path id="mfid70" d="M87,131 L95,127 L95,118 L87,113 L80,118 L80,127 L87,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid70" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid70" fill="none"/>
+									<defs>
+										<path id="mfid71" d="M69,131 L77,127 L77,118 L69,113 L61,118 L61,127 L69,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid71" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid71" fill="none"/>
+									<defs>
+										<path id="mfid72" d="M124,131 L132,127 L132,118 L124,113 L117,118 L117,127 L124,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid72" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid72" fill="none"/>
+									<defs>
+										<path id="mfid73" d="M106,131 L113,127 L113,118 L106,113 L98,118 L98,127 L106,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid73" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid73" fill="none"/>
+									<defs>
+										<path id="mfid74" d="M623,131 L631,127 L631,118 L623,113 L616,118 L616,127 L623,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid74" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid74" fill="none"/>
+									<defs>
+										<path id="mfid75" d="M605,131 L613,127 L613,118 L605,113 L597,118 L597,127 L605,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid75" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid75" fill="none"/>
+									<defs>
+										<path id="mfid76" d="M475,131 L483,127 L483,118 L475,113 L468,118 L468,127 L475,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid76" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid76" fill="none"/>
+									<defs>
+										<path id="mfid77" d="M457,131 L465,127 L465,118 L457,113 L449,118 L449,127 L457,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid77" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid77" fill="none"/>
+									<defs>
+										<path id="mfid78" d="M512,131 L520,127 L520,118 L512,113 L505,118 L505,127 L512,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid78" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid78" fill="none"/>
+									<defs>
+										<path id="mfid79" d="M494,131 L502,127 L502,118 L494,113 L486,118 L486,127 L494,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid79" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid79" fill="none"/>
+									<defs>
+										<path id="mfid80" d="M549,131 L557,127 L557,118 L549,113 L542,118 L542,127 L549,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid80" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid80" fill="none"/>
+									<defs>
+										<path id="mfid81" d="M531,131 L539,127 L539,118 L531,113 L523,118 L523,127 L531,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid81" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid81" fill="none"/>
+									<defs>
+										<path id="mfid82" d="M586,131 L594,127 L594,118 L586,113 L579,118 L579,127 L586,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid82" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid82" fill="none"/>
+									<defs>
+										<path id="mfid83" d="M568,131 L576,127 L576,118 L568,113 L560,118 L560,127 L568,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid83" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid83" fill="none"/>
+									<defs>
+										<path id="mfid84" d="M328,131 L335,127 L335,118 L328,113 L320,118 L320,127 L328,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid84" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid84" fill="none"/>
+									<defs>
+										<path id="mfid85" d="M365,131 L372,127 L372,118 L365,113 L357,118 L357,127 L365,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid85" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid85" fill="none"/>
+									<defs>
+										<path id="mfid86" d="M346,131 L354,127 L354,118 L346,113 L338,118 L338,127 L346,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid86" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid86" fill="none"/>
+									<defs>
+										<path id="mfid87" d="M402,131 L409,127 L409,118 L402,113 L394,118 L394,127 L402,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid87" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid87" fill="none"/>
+									<defs>
+										<path id="mfid88" d="M383,131 L391,127 L391,118 L383,113 L375,118 L375,127 L383,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid88" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid88" fill="none"/>
+									<defs>
+										<path id="mfid89" d="M439,131 L446,127 L446,118 L439,113 L431,118 L431,127 L439,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid89" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid89" fill="none"/>
+									<defs>
+										<path id="mfid90" d="M420,131 L428,127 L428,118 L420,113 L412,118 L412,127 L420,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid90" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid90" fill="none"/>
+									<defs>
+										<path id="mfid91" d="M642,131 L649,127 L649,118 L642,113 L634,118 L634,127 L642,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid91" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid91" fill="none"/>
+									<defs>
+										<path id="mfid92" d="M679,131 L686,127 L686,118 L679,113 L671,118 L671,127 L679,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid92" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid92" fill="none"/>
+									<defs>
+										<path id="mfid93" d="M660,131 L668,127 L668,118 L660,113 L653,118 L653,127 L660,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid93" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid93" fill="none"/>
+									<defs>
+										<path id="mfid94" d="M716,131 L723,127 L723,118 L716,113 L708,118 L708,127 L716,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid94" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid94" fill="none"/>
+									<defs>
+										<path id="mfid95" d="M697,131 L705,127 L705,118 L697,113 L690,118 L690,127 L697,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid95" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid95" fill="none"/>
+									<defs>
+										<path id="mfid96" d="M734,131 L742,127 L742,118 L734,113 L727,118 L727,127 L734,131 Z"/>
+									</defs>
+									<use xlink:href="#mfid96" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid96" fill="none"/>
+									<defs>
+										<path id="mfid97" d="M59,147 L67,143 L67,134 L59,129 L52,134 L52,143 L59,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid97" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid97" fill="none"/>
+									<defs>
+										<path id="mfid98" d="M41,147 L49,143 L49,134 L41,129 L33,134 L33,143 L41,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid98" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid98" fill="none"/>
+									<defs>
+										<path id="mfid99" d="M96,147 L104,143 L104,134 L96,129 L89,134 L89,143 L96,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid99" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid99" fill="none"/>
+									<defs>
+										<path id="mfid100" d="M78,147 L86,143 L86,134 L78,129 L70,134 L70,143 L78,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid100" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid100" fill="none"/>
+									<defs>
+										<path id="mfid101" d="M133,147 L141,143 L141,134 L133,129 L126,134 L126,143 L133,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid101" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid101" fill="none"/>
+									<defs>
+										<path id="mfid102" d="M115,147 L123,143 L123,134 L115,129 L107,134 L107,143 L115,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid102" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid102" fill="none"/>
+									<defs>
+										<path id="mfid103" d="M632,147 L640,143 L640,134 L632,129 L625,134 L625,143 L632,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid103" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid103" fill="none"/>
+									<defs>
+										<path id="mfid104" d="M614,147 L622,143 L622,134 L614,129 L606,134 L606,143 L614,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid104" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid104" fill="none"/>
+									<defs>
+										<path id="mfid105" d="M485,147 L492,143 L492,134 L485,129 L477,134 L477,143 L485,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid105" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid105" fill="none"/>
+									<defs>
+										<path id="mfid106" d="M466,147 L474,143 L474,134 L466,129 L458,134 L458,143 L466,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid106" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid106" fill="none"/>
+									<defs>
+										<path id="mfid107" d="M522,147 L529,143 L529,134 L522,129 L514,134 L514,143 L522,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid107" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid107" fill="none"/>
+									<defs>
+										<path id="mfid108" d="M503,147 L511,143 L511,134 L503,129 L495,134 L495,143 L503,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid108" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid108" fill="none"/>
+									<defs>
+										<path id="mfid109" d="M559,147 L566,143 L566,134 L559,129 L551,134 L551,143 L559,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid109" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid109" fill="none"/>
+									<defs>
+										<path id="mfid110" d="M540,147 L548,143 L548,134 L540,129 L532,134 L532,143 L540,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid110" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid110" fill="none"/>
+									<defs>
+										<path id="mfid111" d="M595,147 L603,143 L603,134 L595,129 L588,134 L588,143 L595,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid111" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid111" fill="none"/>
+									<defs>
+										<path id="mfid112" d="M577,147 L585,143 L585,134 L577,129 L569,134 L569,143 L577,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid112" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid112" fill="none"/>
+									<defs>
+										<path id="mfid113" d="M448,147 L455,143 L455,134 L448,129 L440,134 L440,143 L448,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid113" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid113" fill="none"/>
+									<defs>
+										<path id="mfid114" d="M651,147 L659,143 L659,134 L651,129 L643,134 L643,143 L651,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid114" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid114" fill="none"/>
+									<defs>
+										<path id="mfid115" d="M688,147 L696,143 L696,134 L688,129 L680,134 L680,143 L688,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid115" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid115" fill="none"/>
+									<defs>
+										<path id="mfid116" d="M669,147 L677,143 L677,134 L669,129 L662,134 L662,143 L669,147 Z"/>
+									</defs>
+									<use xlink:href="#mfid116" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid116" fill="none"/>
+									<defs>
+										<path id="mfid117" d="M471,70 L478,65 L478,57 L471,52 L463,57 L463,65 L471,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid117" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid117" fill="none"/>
+									<defs>
+										<path id="mfid118" d="M508,70 L515,65 L515,57 L508,52 L500,57 L500,65 L508,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid118" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid118" fill="none"/>
+									<defs>
+										<path id="mfid119" d="M489,70 L497,65 L497,57 L489,52 L482,57 L482,65 L489,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid119" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid119" fill="none"/>
+									<defs>
+										<path id="mfid120" d="M545,70 L552,65 L552,57 L545,52 L537,57 L537,65 L545,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid120" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid120" fill="none"/>
+									<defs>
+										<path id="mfid121" d="M526,70 L534,65 L534,57 L526,52 L518,57 L518,65 L526,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid121" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid121" fill="none"/>
+									<defs>
+										<path id="mfid122" d="M563,70 L571,65 L571,57 L563,52 L555,57 L555,65 L563,70 Z"/>
+									</defs>
+									<use xlink:href="#mfid122" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid122" fill="none"/>
+									<defs>
+										<path id="mfid123" d="M49,166 L49,166 L41,161 L33,166 L33,166 L49,166 Z"/>
+									</defs>
+									<use xlink:href="#mfid123" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid123" fill="none"/>
+									<defs>
+										<path id="mfid124" d="M67,166 L67,166 L59,161 L52,166 L52,166 L67,166 Z"/>
+									</defs>
+									<use xlink:href="#mfid124" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid124" fill="none"/>
+									<defs>
+										<path id="mfid125" d="M86,166 L86,166 L78,161 L70,166 L70,166 L86,166 Z"/>
+									</defs>
+									<use xlink:href="#mfid125" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid125" fill="none"/>
+									<defs>
+										<path id="mfid126" d="M104,166 L104,166 L96,161 L89,166 L89,166 L104,166 Z"/>
+									</defs>
+									<use xlink:href="#mfid126" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid126" fill="none"/>
+									<defs>
+										<path id="mfid127" d="M123,166 L123,166 L115,161 L107,166 L107,166 L123,166 Z"/>
+									</defs>
+									<use xlink:href="#mfid127" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid127" fill="none"/>
+									<defs>
+										<path id="mfid128" d="M126,175 L133,179 L141,175 L126,175 Z"/>
+									</defs>
+									<use xlink:href="#mfid128" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid128" fill="none"/>
+									<defs>
+										<path id="mfid129" d="M126,175 L141,175 L141,166 L126,166 L126,175 L126,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid129" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid130" d="M126,175 L141,175 L141,166 L126,166 L126,175"/>
+									</defs>
+									<use xlink:href="#mfid130" fill="none"/>
+									<defs>
+										<path id="mfid131" d="M107,175 L115,179 L122,175 L107,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid131" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid131" fill="none"/>
+									<defs>
+										<path id="mfid132" d="M107,175 L123,175 L123,166 L107,166 L107,175 L107,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid132" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid133" d="M107,175 L123,175 L123,166 L107,166 L107,175"/>
+									</defs>
+									<use xlink:href="#mfid133" fill="none"/>
+									<defs>
+										<path id="mfid134" d="M89,175 L96,179 L104,175 L89,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid134" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid134" fill="none"/>
+									<defs>
+										<path id="mfid135" d="M89,175 L104,175 L104,166 L89,166 L89,175 L89,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid135" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid136" d="M89,175 L104,175 L104,166 L89,166 L89,175"/>
+									</defs>
+									<use xlink:href="#mfid136" fill="none"/>
+									<defs>
+										<path id="mfid137" d="M70,175 L78,179 L85,175 L70,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid137" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid137" fill="none"/>
+									<defs>
+										<path id="mfid138" d="M70,175 L86,175 L86,166 L70,166 L70,175 L70,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid138" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid139" d="M70,175 L86,175 L86,166 L70,166 L70,175"/>
+									</defs>
+									<use xlink:href="#mfid139" fill="none"/>
+									<defs>
+										<path id="mfid140" d="M52,175 L59,179 L67,175 L52,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid140" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid140" fill="none"/>
+									<defs>
+										<path id="mfid141" d="M52,175 L67,175 L67,166 L52,166 L52,175 L52,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid141" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid142" d="M52,175 L67,175 L67,166 L52,166 L52,175"/>
+									</defs>
+									<use xlink:href="#mfid142" fill="none"/>
+									<defs>
+										<path id="mfid143" d="M33,175 L41,179 L49,175 L33,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid143" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid143" fill="none"/>
+									<defs>
+										<path id="mfid144" d="M33,175 L49,175 L49,166 L33,166 L33,175 L33,175 Z"/>
+									</defs>
+								</g>
+								<g fill="#c8d6e6" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid144" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid144" fill="none"/>
+									<defs>
+										<path id="mfid145" d="M141,166 L141,166 L133,161 L126,166 L126,166 L141,166 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid145" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid145" fill="none"/>
+									<defs>
+										<path id="mfid146" d="M50,163 L58,159 L58,150 L50,145 L43,150 L43,159 L50,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid146" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid146" fill="none"/>
+									<defs>
+										<path id="mfid147" d="M87,163 L95,159 L95,150 L87,145 L80,150 L80,159 L87,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid147" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid147" fill="none"/>
+									<defs>
+										<path id="mfid148" d="M69,163 L77,159 L77,150 L69,145 L61,150 L61,159 L69,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid148" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid148" fill="none"/>
+									<defs>
+										<path id="mfid149" d="M124,163 L132,159 L132,150 L124,145 L117,150 L117,159 L124,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid149" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid149" fill="none"/>
+									<defs>
+										<path id="mfid150" d="M106,163 L113,159 L113,150 L106,145 L98,150 L98,159 L106,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid150" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid150" fill="none"/>
+									<defs>
+										<path id="mfid151" d="M143,163 L150,159 L150,150 L143,145 L135,150 L135,159 L143,163 Z"/>
+									</defs>
+									<use xlink:href="#mfid151" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid151" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid152"
+									d="M32.58,158.98 C32.58,153.68 28.282,149.38 22.98,149.38 C17.678,149.38 13.38,153.68 13.38,158.98 C13.38,164.28 17.678,168.58 22.98,168.58 C28.282,168.58 32.58,164.28 32.58,158.98 C32.58,158.98 32.58,158.98 32.58,158.98 Z"/>
+						</defs>
+						<mask id="mfid153">
+							<use xlink:href="#mfid152" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid154" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid153)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid155"
+									d="M0.25615,0.1 C0.25615,0.18624 0.18624,0.25615 0.1,0.25615 C0.013759,0.25615 -0.056153,0.18624 -0.056153,0.1 C-0.056153,0.013759 0.013759,-0.056153 0.1,-0.056153 C0.18624,-0.056153 0.25615,0.013759 0.25615,0.1 Z"/>
+						</defs>
+						<radialGradient id="mfid156">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#b2b2b2"/>
+							<stop offset="1" stop-color="#b2b2b2"/>
+						</radialGradient>
+						<g mask="url(#mfid154)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 13.38, 168.58)">
+									<g fill="white" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid157" x="-0.010417" y="-0.010417" width="0.22083" height="0.22083"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.22083" height="0.22083" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid155" stroke="none" mask="url(#mfid157)" fill="url(#mfid156)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid152" fill="none"/>
+									<defs>
+										<path id="mfid158" d="M26.98,158.98 L18.788,158.98"/>
+									</defs>
+								</g>
+								<g fill="white" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid158" fill="none"/>
+									<defs>
+										<path id="mfid159" d="M22.98,163.18 L22.98,154.99"/>
+									</defs>
+									<use xlink:href="#mfid159" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid160"
+									d="M757.02,158.98 C757.02,153.68 752.72,149.38 747.42,149.38 C742.12,149.38 737.82,153.68 737.82,158.98 C737.82,164.28 742.12,168.58 747.42,168.58 C752.72,168.58 757.02,164.28 757.02,158.98 C757.02,158.98 757.02,158.98 757.02,158.98 Z"/>
+						</defs>
+						<mask id="mfid161">
+							<use xlink:href="#mfid160" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid162" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid161)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid163"
+									d="M0.25615,0.1 C0.25615,0.18624 0.18624,0.25615 0.1,0.25615 C0.013759,0.25615 -0.056153,0.18624 -0.056153,0.1 C-0.056153,0.013759 0.013759,-0.056153 0.1,-0.056153 C0.18624,-0.056153 0.25615,0.013759 0.25615,0.1 Z"/>
+						</defs>
+						<radialGradient id="mfid164">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#b2b2b2"/>
+							<stop offset="1" stop-color="#b2b2b2"/>
+						</radialGradient>
+						<g mask="url(#mfid162)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 737.82, 168.58)">
+									<g fill="white" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid165" x="-0.010417" y="-0.010417" width="0.22083" height="0.22083"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.22083" height="0.22083" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid163" stroke="none" mask="url(#mfid165)" fill="url(#mfid164)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid160" fill="none"/>
+									<defs>
+										<path id="mfid166" d="M751.42,158.98 L743.23,158.98"/>
+									</defs>
+								</g>
+								<g fill="white" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid166" fill="none"/>
+									<defs>
+										<path id="mfid167" d="M747.42,163.18 L747.42,154.99"/>
+									</defs>
+									<use xlink:href="#mfid167" fill="none"/>
+									<defs>
+										<path id="mfid168" d="M753,131 L760,127 L760,118 L753,113 L745,118 L745,127 L753,131 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid168" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid168" fill="none"/>
+									<defs>
+										<path id="mfid169"
+												d="M486,90 L486,95 L494,99 L502,95 L502,90 L486,90 Z M505,90 L505,95 L512,99 L520,95 L520,90 L505,90 Z M523,90 L523,95 L531,99 L539,95 L539,90 L523,90 Z M542,90 L542,95 L549,99 L557,95 L557,90 L542,90 Z M560,90 L560,95 L568,99 L576,95 L576,90 L560,90 Z M579,90 L579,95 L586,99 L594,95 L594,90 L579,90 Z M597,90 L597,95 L605,99 L613,95 L613,90 L597,90 Z M616,90 L616,95 L623,99 L631,95 L631,90 L616,90 Z M634,90 L634,95 L642,99 L649,95 L649,90 L634,90 Z M653,90 L653,95 L660,99 L668,95 L668,90 L653,90 Z M671,90 L671,95 L679,99 L686,95 L686,90 L671,90 Z M690,90 L690,95 L697,99 L705,95 L705,90 L690,90 Z M708,90 L708,95 L716,99 L723,95 L723,90 L708,90 Z M727,90 L727,95 L734,99 L742,95 L742,90 L727,90 Z"/>
+									</defs>
+									<use xlink:href="#mfid169" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid169" fill="none"/>
+									<defs>
+										<path id="mfid170"
+												d="M43,90 L43,95 L50,99 L58,95 L58,90 L43,90 Z M61,90 L61,95 L69,99 L77,95 L77,90 L61,90 Z M80,90 L80,95 L87,99 L95,95 L95,90 L80,90 Z M98,90 L98,95 L106,99 L113,95 L113,90 L98,90 Z M117,90 L117,95 L124,99 L132,95 L132,90 L117,90 Z M135,90 L135,95 L143,99 L150,95 L150,90 L135,90 Z M154,90 L154,95 L161,99 L169,95 L169,90 L154,90 Z M172,90 L172,95 L180,99 L187,95 L187,90 L172,90 Z M191,90 L191,95 L198,99 L206,95 L206,90 L191,90 Z M209,90 L209,95 L217,99 L224,95 L224,90 L209,90 Z M228,90 L228,95 L235,99 L243,95 L243,90 L228,90 Z M246,90 L246,95 L254,99 L261,95 L261,90 L246,90 Z M265,90 L265,95 L272,99 L280,95 L280,90 L265,90 Z M283,90 L283,95 L291,99 L298,95 L298,90 L283,90 Z"/>
+									</defs>
+									<use xlink:href="#mfid170" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid170" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid171"
+									d="M407.22,158.98 C407.22,153.68 402.92,149.38 397.62,149.38 C392.32,149.38 388.02,153.68 388.02,158.98 C388.02,164.28 392.32,168.58 397.62,168.58 C402.92,168.58 407.22,164.28 407.22,158.98 C407.22,158.98 407.22,158.98 407.22,158.98 Z"/>
+						</defs>
+						<mask id="mfid172">
+							<use xlink:href="#mfid171" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid173" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid172)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid174"
+									d="M0.25615,0.1 C0.25615,0.18624 0.18624,0.25615 0.1,0.25615 C0.013759,0.25615 -0.056153,0.18624 -0.056153,0.1 C-0.056153,0.013759 0.013759,-0.056153 0.1,-0.056153 C0.18624,-0.056153 0.25615,0.013759 0.25615,0.1 Z"/>
+						</defs>
+						<radialGradient id="mfid175">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#b2b2b2"/>
+							<stop offset="1" stop-color="#b2b2b2"/>
+						</radialGradient>
+						<g mask="url(#mfid173)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 388.02, 168.58)">
+									<g fill="white" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid176" x="-0.010417" y="-0.010417" width="0.22083" height="0.22083"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.22083" height="0.22083" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid174" stroke="none" mask="url(#mfid176)" fill="url(#mfid175)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#3f3f3f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid171" fill="none"/>
+									<defs>
+										<path id="mfid177" d="M401.62,158.98 L393.43,158.98"/>
+									</defs>
+								</g>
+								<g fill="white" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid177" fill="none"/>
+									<defs>
+										<path id="mfid178" d="M397.62,163.18 L397.62,154.99"/>
+									</defs>
+									<use xlink:href="#mfid178" fill="none"/>
+									<defs>
+										<path id="mfid179"
+												d="M329,119 L138,119 L138,182 L333,182 L333,176 L400,176 L400,136 L400.02,136.37 C400.02,126.77 391.29,118.98 380.52,118.98 L381,119 L329,119 Z"/>
+									</defs>
+								</g>
+								<g fill="#2e7489" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid179" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid180"
+												d="M172,176 L229,176 L228.6,175.9 C229.66,175.9 230.52,175.04 230.52,173.98 C230.52,173.98 230.52,173.98 230.52,173.98 L231,174 L231,127 L230.52,127.22 C230.52,126.16 229.66,125.3 228.6,125.3 L229,125 L172,125 L172.44,125.3 C171.38,125.3 170.52,126.16 170.52,127.22 L171,127 L171,174 L170.52,173.98 C170.52,175.04 171.38,175.9 172.44,175.9 Z"/>
+									</defs>
+								</g>
+								<g fill="#2c7081" stroke-width="2.88" stroke="#5f5f5f" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid180" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#2c7081" stroke-width="1.3333" stroke="#595959" stroke-miterlimit="2">
+									<use xlink:href="#mfid180" fill="none"/>
+								</g>
+								<g fill="#ffffff" stroke-width="1.3333" stroke="#595959" stroke-miterlimit="2">
+									<rect x="191" y="153" width="2" height="8" stroke="none"/>
+									<defs>
+										<path id="mfid181"
+												d="M208.09,155.66 C208.01,155.62 207.42,155.25 207,155 L206.54,155.25 C205.35,155.25 204.52,156.12 205,157 L204.52,157.3 C204.52,158.45 205.31,159.36 207,159 L206.54,159.36 C207.41,159.36 208.01,158.99 208,159 L208,161 L208.09,161.01 C207.86,161.08 207.23,161.29 206,161 L206.41,161.29 C204.34,161.29 202.52,159.78 203,157 L202.52,157.3 C202.52,155.01 204.17,153.32 206,153 L206.41,153.32 C207.27,153.32 207.92,153.54 208,154 L208,156 Z"/>
+									</defs>
+									<use xlink:href="#mfid181" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid182"
+												d="M188.87,155.66 C188.79,155.62 188.2,155.25 187,155 L187.32,155.25 C186.13,155.25 185.3,156.12 185,157 L185.3,157.3 C185.3,158.45 186.09,159.36 187,159 L187.32,159.36 C188.19,159.36 188.79,158.99 189,159 L189,161 L188.87,161.01 C188.64,161.08 188.01,161.29 187,161 L187.19,161.29 C185.12,161.29 183.3,159.78 183,157 L183.3,157.3 C183.3,155.01 184.95,153.32 187,153 L187.19,153.32 C188.05,153.32 188.69,153.54 189,154 L189,156 Z"/>
+									</defs>
+									<use xlink:href="#mfid182" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid183"
+												d="M217.74,157.3 C217.74,159.5 216.13,161.29 214,161 L213.88,161.29 C211.64,161.29 210.03,159.5 210,157 L210.03,157.3 C210.03,155.11 211.64,153.32 214,153 L213.88,153.32 C216.13,153.32 217.74,155.11 218,157 Z M213.88,155.28 C212.79,155.28 211.98,156.19 212,157 L211.98,157.3 C211.98,158.42 212.79,159.33 214,159 L213.88,159.33 C214.97,159.33 215.79,158.42 216,157 L215.79,157.3 C215.79,156.18 214.97,155.28 214,155 Z"/>
+									</defs>
+									<use xlink:href="#mfid183" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid184"
+												d="M200.22,155.21 C200.2,155.2 199.42,154.97 199,155 L198.78,154.97 C198.05,154.97 197.65,155.23 198,156 L197.65,155.6 C197.65,156.07 198.19,156.23 198,156 L199,157 L199,156.5 C200.19,156.9 200.74,157.77 201,159 L200.74,158.7 C200.74,160.64 199.12,161.29 198,161 L197.72,161.29 C196.74,161.29 195.82,161.1 196,161 L196,159 L195.73,159.3 C195.89,159.35 196.66,159.59 197,160 L197.47,159.59 C198.38,159.59 198.8,159.31 199,159 L198.8,158.87 C198.8,158.48 198.44,158.26 198,158 L197.98,158.11 C197.87,158.07 197.7,158.01 198,158 L197.59,157.97 C196.56,157.63 195.71,157 196,156 L195.71,155.72 C195.71,154.28 196.73,153.32 198,153 L198.43,153.32 C199.32,153.32 200.17,153.55 200,154 L200,155 L200,155 Z"/>
+									</defs>
+									<use xlink:href="#mfid184" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid185"
+												d="M181.35,145.19 C181.35,144.66 180.94,144.23 180,144 L180.43,144.23 C179.93,144.23 179.52,144.66 180,145 L180,147 L179.52,147.21 C179.52,147.74 179.93,148.17 180,148 L180.43,148.17 C180.94,148.17 181.35,147.74 181,147 L181,145 L181,145 Z"/>
+									</defs>
+									<use xlink:href="#mfid185" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid186"
+												d="M186.37,142.54 C186.37,142.01 185.96,141.58 185,142 L185.46,141.58 C184.95,141.58 184.54,142.01 185,143 L185,147 L184.54,147.21 C184.54,147.74 184.95,148.17 185,148 L185.46,148.17 C185.96,148.17 186.37,147.74 186,147 L186,143 Z"/>
+									</defs>
+									<use xlink:href="#mfid186" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid187"
+												d="M191.39,138.91 C191.39,138.38 190.98,137.95 190,138 L190.48,137.95 C189.98,137.95 189.56,138.38 190,139 L190,149 L189.56,149.13 C189.56,149.66 189.98,150.09 190,150 L190.48,150.09 C190.98,150.09 191.39,149.66 191,149 L191,139 L191,139 Z"/>
+									</defs>
+									<use xlink:href="#mfid187" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid188"
+												d="M196.42,142.54 C196.42,142.01 196,141.58 196,142 L195.5,141.58 C195,141.58 194.59,142.01 195,143 L195,147 L194.59,147.21 C194.59,147.74 195,148.17 196,148 L195.5,148.17 C196,148.17 196.42,147.74 196,147 L196,143 Z"/>
+									</defs>
+									<use xlink:href="#mfid188" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid189"
+												d="M201.43,145.19 C201.43,144.66 201.02,144.23 201,144 L200.52,144.23 C200.02,144.23 199.61,144.66 200,145 L200,147 L199.61,147.21 C199.61,147.74 200.02,148.17 201,148 L200.52,148.17 C201.02,148.17 201.43,147.74 201,147 L201,145 Z"/>
+									</defs>
+									<use xlink:href="#mfid189" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid190"
+												d="M206.46,142.54 C206.46,142.01 206.05,141.58 206,142 L205.54,141.58 C205.04,141.58 204.63,142.01 205,143 L205,147 L204.63,147.21 C204.63,147.74 205.04,148.17 206,148 L205.54,148.17 C206.05,148.17 206.46,147.74 206,147 L206,143 Z"/>
+									</defs>
+									<use xlink:href="#mfid190" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid191"
+												d="M211.48,138.91 C211.48,138.38 211.07,137.95 211,138 L210.57,137.95 C210.07,137.95 209.66,138.38 210,139 L210,149 L209.66,149.13 C209.66,149.66 210.07,150.09 211,150 L210.57,150.09 C211.07,150.09 211.48,149.66 211,149 L211,139 L211,139 Z"/>
+									</defs>
+									<use xlink:href="#mfid191" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid192"
+												d="M216.51,142.54 C216.51,142.01 216.1,141.58 216,142 L215.58,141.58 C215.08,141.58 214.67,142.01 215,143 L215,147 L214.67,147.21 C214.67,147.74 215.08,148.17 216,148 L215.58,148.17 C216.1,148.17 216.51,147.74 217,147 L217,143 Z"/>
+									</defs>
+									<use xlink:href="#mfid192" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid193"
+												d="M221.52,145.19 C221.52,144.66 221.11,144.23 221,144 L220.61,144.23 C220.1,144.23 219.7,144.66 220,145 L220,147 L219.7,147.21 C219.7,147.74 220.1,148.17 221,148 L220.61,148.17 C221.11,148.17 221.52,147.74 222,147 L222,145 Z"/>
+									</defs>
+									<use xlink:href="#mfid193" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid194"
+												d="M220,160 L220,160 L220,160 L220,161 L220,161 L220,160 L220,160 L220,160 L220,160 Z"/>
+									</defs>
+									<use xlink:href="#mfid194" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid195"
+												d="M221,160 L221,160 L221,161 L221,161 L221,160 L222,160 L222,161 L221,161 L221,160 L221,160 L221,161 L221,161 L221,160 L221,160 L221,161 L221,161 L221,160 Z"/>
+									</defs>
+									<use xlink:href="#mfid195" fill-rule="evenodd" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid196"
+									d="M389.09,147.44 C389.09,135.34 379.79,125.53 368.31,125.53 C356.83,125.53 347.52,135.34 347.52,147.44 C347.52,159.54 356.83,169.35 368.31,169.35 C379.79,169.35 389.09,159.54 389.09,147.44 C389.09,147.44 389.09,147.44 389.09,147.44 Z"/>
+						</defs>
+						<mask id="mfid197">
+							<use xlink:href="#mfid196" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid198" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid197)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid199"
+									d="M1.0854,-0.010417 C1.0854,0.36239 0.79801,0.66461 0.44349,0.66461 C0.088966,0.66461 -0.19843,0.36239 -0.19843,-0.010417 C-0.19843,-0.38322 0.088966,-0.68544 0.44349,-0.68544 C0.79801,-0.68544 1.0854,-0.38322 1.0854,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid200">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#e6e6e6"/>
+							<stop offset="1" stop-color="#e6e6e6"/>
+						</radialGradient>
+						<g mask="url(#mfid198)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 347.52, 169.35)">
+									<g fill="white" stroke-width="1.3333" stroke="#595959" stroke-miterlimit="2">
+										<mask id="mfid201" x="-0.010417" y="-0.010417" width="0.4539" height="0.47731"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.4539" height="0.47731" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid199" stroke="none" mask="url(#mfid201)" fill="url(#mfid200)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round" stroke-linejoin="round"
+										stroke-dasharray="0.64,0.32">
+									<use xlink:href="#mfid196" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid202"
+									d="M386.67,147.44 C386.67,136.75 378.45,128.08 368.31,128.08 C358.17,128.08 349.95,136.75 349.95,147.44 C349.95,158.13 358.17,166.79 368.31,166.79 C378.45,166.79 386.67,158.13 386.67,147.44 C386.67,147.44 386.67,147.44 386.67,147.44 Z"/>
+						</defs>
+						<mask id="mfid203">
+							<use xlink:href="#mfid202" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid204" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid203)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid205"
+									d="M0.47651,0.20161 C0.47651,0.36722 0.3488,0.50147 0.19127,0.50147 C0.033744,0.50147 -0.093959,0.36722 -0.093959,0.20161 C-0.093959,0.036007 0.033744,-0.098242 0.19127,-0.098242 C0.3488,-0.098242 0.47651,0.036007 0.47651,0.20161 Z"/>
+						</defs>
+						<radialGradient id="mfid206">
+							<stop offset="0" stop-color="#000000"/>
+							<stop offset="0.70711" stop-color="#cdcdcd"/>
+							<stop offset="1" stop-color="#cdcdcd"/>
+						</radialGradient>
+						<g mask="url(#mfid204)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 349.95, 166.79)">
+									<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+											stroke-linejoin="round" stroke-dasharray="0.64,0.32">
+										<mask id="mfid207" x="-0.010417" y="-0.010417" width="0.40338" height="0.42406"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.40338" height="0.42406" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid205" stroke="none" mask="url(#mfid207)" fill="url(#mfid206)"/>
+										<defs>
+											<image id="mfid208" width="8" height="8" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAdSURBVChTY0hLS/t/4MCB/7hoBnySIHo4mJD2HwCVv64BosyyTQAAAABJRU5ErkJggg=="/>
+										</defs>
+										<defs>
+											<path id="mfid209"
+													d="M380.43,147.44 C380.43,140.38 375,134.66 368.31,134.66 C361.61,134.66 356.18,140.38 356.18,147.44 C356.18,154.5 361.61,160.22 368.31,160.22 C375,160.22 380.43,154.5 380.43,147.44 C380.43,147.44 380.43,147.44 380.43,147.44 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<pattern id="mfid210" x="1" y="190" width="8" height="8" patternUnits="userSpaceOnUse"
+										patternTransform="matrix(1.4551, 0, 0, 1.4557, 0, 0)">
+									<use xlink:href="#mfid208"/>
+								</pattern>
+								<g fill="url(#mfid210)" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+										stroke-linejoin="round" stroke-dasharray="0.64,0.32">
+									<use xlink:href="#mfid209" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="url(#mfid210)" stroke-width="0.96" stroke="#4d4d4d" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid209" fill="none"/>
+									<defs>
+										<path id="mfid211" d="M375.24,147.44 L361.38,147.44"/>
+									</defs>
+								</g>
+								<g fill="url(#mfid210)" stroke-width="1.6" stroke="#1a1a1a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid211" fill="none"/>
+									<defs>
+										<path id="mfid212" d="M368.31,154.74 L368.31,140.14"/>
+									</defs>
+									<use xlink:href="#mfid212" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid213" d="M308,182 L329,182 L329,119 L308,119 L308,182 Z"/>
+						</defs>
+						<mask id="mfid214">
+							<use xlink:href="#mfid213" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid215" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid214)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid216" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.32939" x2="0.22917"
+								y2="0.32939" spreadMethod="repeat">
+							<stop offset="0" stop-color="#2e7489"/>
+							<stop offset="0.5" stop-color="#173f44"/>
+							<stop offset="1" stop-color="#2e7489"/>
+						</linearGradient>
+						<g mask="url(#mfid215)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 307.93, 182.22)">
+									<g fill="url(#mfid216)" stroke-width="1.6" stroke="#1a1a1a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.23958" height="0.67962" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid217" d="M138,182 L159,182 L159,119 L138,119 L138,182 Z"/>
+						</defs>
+						<mask id="mfid218">
+							<use xlink:href="#mfid217" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid219" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid218)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid220" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.32939" x2="0.22917"
+								y2="0.32939" spreadMethod="repeat">
+							<stop offset="0" stop-color="#173f44"/>
+							<stop offset="1" stop-color="#2e7489"/>
+						</linearGradient>
+						<g mask="url(#mfid219)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 137.52, 182.22)">
+									<g fill="url(#mfid220)" stroke-width="1.6" stroke="#1a1a1a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.23958" height="0.67962" stroke="none"/>
+										<defs>
+											<path id="mfid221"
+													d="M442.54,143.68 C442.54,137.81 438.03,133.05 432.46,133.05 C426.88,133.05 422.37,137.81 422.37,143.68 C422.37,149.56 426.88,154.32 432.46,154.32 C438.03,154.32 442.54,149.56 442.54,143.68 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#a6a6a6" stroke-width="1.6" stroke="#1a1a1a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid221" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#a6a6a6" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid221" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid222"
+									d="M438.27,143.68 C438.27,140.3 435.66,137.56 432.46,137.56 C429.25,137.56 426.65,140.3 426.65,143.68 C426.65,147.07 429.25,149.81 432.46,149.81 C435.66,149.81 438.27,147.07 438.27,143.68 Z"/>
+						</defs>
+						<mask id="mfid223">
+							<use xlink:href="#mfid222" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid224" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid223)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid225"
+									d="M0.16086,0.063798 C0.16086,0.12176 0.11594,0.16875 0.060527,0.16875 C0.0051165,0.16875 -0.039802,0.12176 -0.039802,0.063798 C-0.039802,0.0058328 0.0051165,-0.041158 0.060527,-0.041158 C0.11594,-0.041158 0.16086,0.0058328 0.16086,0.063798 Z"/>
+						</defs>
+						<radialGradient id="mfid226">
+							<stop offset="0" stop-color="#e3e3e3"/>
+							<stop offset="0.70711" stop-color="#d9d9d9"/>
+							<stop offset="1" stop-color="#d9d9d9"/>
+						</radialGradient>
+						<g mask="url(#mfid224)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 426.65, 149.81)">
+									<g fill="white" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid227" x="-0.010417" y="-0.010417" width="0.14189" height="0.14843"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.14189" height="0.14843" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid225" stroke="none" mask="url(#mfid227)" fill="url(#mfid226)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="1.6" stroke="#a6a6a6" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid222" fill="none"/>
+									<defs>
+										<path id="mfid228"
+												d="M725.32,143.68 C725.32,137.81 720.8,133.05 715.23,133.05 C709.66,133.05 705.14,137.81 705.14,143.68 C705.14,149.56 709.66,154.32 715.23,154.32 C720.8,154.32 725.32,149.56 725.32,143.68 Z"/>
+									</defs>
+								</g>
+								<g fill="#a6a6a6" stroke-width="1.6" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid228" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#a6a6a6" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid228" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid229"
+									d="M721.04,143.68 C721.04,140.3 718.44,137.56 715.23,137.56 C712.02,137.56 709.42,140.3 709.42,143.68 C709.42,147.07 712.02,149.81 715.23,149.81 C718.44,149.81 721.04,147.07 721.04,143.68 Z"/>
+						</defs>
+						<mask id="mfid230">
+							<use xlink:href="#mfid229" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid231" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid230)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid232"
+									d="M0.16086,0.063798 C0.16086,0.12176 0.11594,0.16875 0.060527,0.16875 C0.0051165,0.16875 -0.039802,0.12176 -0.039802,0.063798 C-0.039802,0.0058328 0.0051165,-0.041158 0.060527,-0.041158 C0.11594,-0.041158 0.16086,0.0058328 0.16086,0.063798 Z"/>
+						</defs>
+						<radialGradient id="mfid233">
+							<stop offset="0" stop-color="#e3e3e3"/>
+							<stop offset="0.70711" stop-color="#d9d9d9"/>
+							<stop offset="1" stop-color="#d9d9d9"/>
+						</radialGradient>
+						<g mask="url(#mfid231)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 709.42, 149.81)">
+									<g fill="white" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid234" x="-0.010417" y="-0.010417" width="0.14189" height="0.14843"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.14189" height="0.14843" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid232" stroke="none" mask="url(#mfid234)" fill="url(#mfid233)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="1.6" stroke="#a6a6a6" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid229" fill="none"/>
+									<defs>
+										<path id="mfid235"
+												d="M422,135 L409,135 L409,181 L733,181 L733,135 L726,135 L726,144 L725.73,143.83 C725.73,149.76 721.03,154.57 715.23,154.57 C715.23,154.57 715.23,154.57 715.23,154.57 C709.43,154.57 704.73,149.76 704.73,143.83 L705,144 L705,135 L443,135 L443,144 L442.96,143.83 C442.96,149.76 438.25,154.57 432.46,154.57 C426.66,154.57 421.96,149.76 421.96,143.83 L422,144 L422,135 Z"/>
+									</defs>
+								</g>
+								<g fill="#d9d9d9" stroke-width="1.6" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid235" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#d9d9d9" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid235" fill="none"/>
+									<defs>
+										<path id="mfid236" d="M486,179 L500,179 L493,166 L486,179 Z"/>
+									</defs>
+								</g>
+								<g fill="#595959" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid236" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g transform="matrix(96, 0, 0, 96, 486.64, 168.12)">
+									<g fill="#a6a6a6" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+											stroke-linejoin="round">
+										<g font-size="0.11111" font-family="ARIAL ROUNDED MT BOLD">
+											<text stroke="none" xml:space="preserve" x="0.055557" y="0.098473">!</text>
+											<defs>
+												<path id="mfid237"
+														d="M721.23,167.84 C721.23,164.34 718.54,161.51 715.23,161.51 C711.92,161.51 709.23,164.34 709.23,167.84 C709.23,171.33 711.92,174.16 715.23,174.16 C718.54,174.16 721.23,171.33 721.23,167.84 Z"/>
+											</defs>
+										</g>
+									</g>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#8c8c8c" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid237" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.32" stroke="#404040" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid237" fill="none"/>
+									<defs>
+										<path id="mfid238"
+												d="M719.55,167.84 C719.55,165.32 717.62,163.28 715.23,163.28 C712.84,163.28 710.91,165.32 710.91,167.84 C710.91,170.35 712.84,172.39 715.23,172.39 C717.62,172.39 719.55,170.35 719.55,167.84 Z"/>
+									</defs>
+									<use xlink:href="#mfid238" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid238" fill="none"/>
+									<defs>
+										<path id="mfid239"
+												d="M716.96,167.84 C716.96,166.83 716.18,166.01 715.23,166.01 C714.28,166.01 713.5,166.83 713.5,167.84 C713.5,168.84 714.28,169.66 715.23,169.66 C716.18,169.66 716.96,168.84 716.96,167.84 Z"/>
+									</defs>
+								</g>
+								<g fill="#808080" stroke-width="0.32" stroke="#404040" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid239" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#808080" stroke-width="0.96" stroke="#404040" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid239" fill="none"/>
+									<defs>
+										<path id="mfid240" d="M712,159 L718,159 L715,165 L712,159 Z"/>
+									</defs>
+								</g>
+								<g fill="#595959" stroke-width="0.96" stroke="#404040" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid240" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#595959" stroke-width="0.32" stroke="#bfbfbf" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid240" fill="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.32" stroke="#bfbfbf" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="466" y="171" width="3" height="2" stroke="none"/>
+									<defs>
+										<path id="mfid241" d="M469,173 L469,171 L466,171 L466,173 L469,173 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid241" fill="none"/>
+									<rect x="463" y="176" width="3" height="2" stroke="none"/>
+									<defs>
+										<path id="mfid242" d="M466,178 L466,176 L463,176 L463,178 L466,178 Z"/>
+									</defs>
+									<use xlink:href="#mfid242" fill="none"/>
+									<rect x="470" y="176" width="3" height="2" stroke="none"/>
+									<defs>
+										<path id="mfid243" d="M473,178 L473,176 L470,176 L470,178 L473,178 Z"/>
+									</defs>
+									<use xlink:href="#mfid243" fill="none"/>
+									<defs>
+										<path id="mfid244" d="M461,174 L474,174"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.32" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid244" fill="none"/>
+									<defs>
+										<path id="mfid245" d="M465,174 L465,176"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.32" stroke="#000000" stroke-miterlimit="2">
+									<use xlink:href="#mfid245" fill="none"/>
+									<defs>
+										<path id="mfid246" d="M471,174 L471,176"/>
+									</defs>
+									<use xlink:href="#mfid246" fill="none"/>
+									<defs>
+										<path id="mfid247" d="M468,173 L468,174"/>
+									</defs>
+									<use xlink:href="#mfid247" fill="none"/>
+									<defs>
+										<path id="mfid248"
+												d="M439.23,167.84 C439.23,163.91 436.21,160.72 432.48,160.72 C428.75,160.72 425.73,163.91 425.73,167.84 C425.73,171.76 428.75,174.95 432.48,174.95 C436.21,174.95 439.23,171.76 439.23,167.84 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid248" fill="none"/>
+									<defs>
+										<path id="mfid249" d="M426,168 L432,165 L432,170 L439,168"/>
+									</defs>
+									<use xlink:href="#mfid249" fill="none"/>
+								</g>
+								<g fill="#595959" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="464" y="151" width="8" height="14" stroke="none"/>
+									<defs>
+										<path id="mfid250" d="M464,165 L472,165 L472,151 L464,151 L464,165 Z"/>
+									</defs>
+									<use xlink:href="#mfid250" fill="none"/>
+									<rect x="489" y="151" width="8" height="14" stroke="none"/>
+									<defs>
+										<path id="mfid251" d="M489,165 L497,165 L497,151 L489,151 L489,165 Z"/>
+									</defs>
+									<use xlink:href="#mfid251" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid252"
+									d="M671.11,159.46 C671.11,162.34 668.9,164.67 666.17,164.67 C663.44,164.67 661.23,162.34 661.23,159.46 C661.23,156.58 663.45,154.25 666.17,154.25 C668.9,154.25 671.11,156.59 671.11,159.46 Z"/>
+						</defs>
+						<mask id="mfid253">
+							<use xlink:href="#mfid252" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid254" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid253)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid255"
+									d="M0.16466,0.11898 C0.16466,0.22005 0.086278,0.30199 -0.010417,0.30199 C-0.10711,0.30199 -0.1855,0.22005 -0.1855,0.11898 C-0.1855,0.017916 -0.10711,-0.064016 -0.010417,-0.064016 C0.086278,-0.064016 0.16466,0.017916 0.16466,0.11898 Z"/>
+						</defs>
+						<radialGradient id="mfid256">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#000000"/>
+							<stop offset="1" stop-color="#000000"/>
+						</radialGradient>
+						<g mask="url(#mfid254)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 661.23, 164.67)">
+									<g fill="white" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid257" x="-0.010417" y="-0.010417" width="0.1238" height="0.1294"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.1238" height="0.1294" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid255" stroke="none" mask="url(#mfid257)" fill="url(#mfid256)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="1.6" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid252" fill="none"/>
+								</g>
+								<g transform="matrix(96, 0, 0, 96, 650.73, 170.06)">
+									<g fill="#000000" stroke-width="1.6" stroke="#4d4d4d" stroke-miterlimit="2">
+										<g font-size="0.11111" font-family="ARIAL NARROW">
+											<text stroke="none" xml:space="preserve" x="0.045055 0.11081 0.16148 0.20706 0.25773"
+													y="0.087616 0.087616 0.087616 0.087616 0.087616">Reset</text>
+											<defs>
+												<path id="mfid258"
+														d="M512,169 L641,169 L641.31,169.42 C642.37,169.42 643.23,168.56 643.23,167.5 C643.23,167.5 643.23,167.5 643.23,167.5 L643,167 L643,151 L643.23,150.78 C643.23,149.72 642.37,148.86 641.31,148.86 L641,149 L512,149 L511.65,148.86 C510.59,148.86 509.73,149.72 509.73,150.78 L510,151 L510,167 L509.73,167.5 C509.73,168.56 510.59,169.42 511.65,169.42 Z"/>
+											</defs>
+										</g>
+									</g>
+								</g>
+								<g fill="#bfbfbf" stroke-width="1.6" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid258" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid258" fill="none"/>
+								</g>
+								<g transform="matrix(96, 0, 0, 96, 509.73, 166.18)">
+									<g fill="#000000" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+											stroke-linejoin="round">
+										<g font-size="0.11111" font-family="ARIAL NARROW" font-weight="bold">
+											<text stroke="none" xml:space="preserve"
+													x="0.5156 0.58135 0.63702 0.69268 0.74335 0.79902 0.82436"
+													y="0.14038 0.14038 0.14038 0.14038 0.14038 0.14038 0.14038">Console</text>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid259"
+									d="M526.23,159.14 C526.23,155.49 523.43,152.53 519.99,152.53 C516.54,152.53 513.74,155.49 513.74,159.14 C513.74,162.79 516.54,165.75 519.99,165.75 C523.43,165.75 526.23,162.79 526.23,159.14 C526.23,159.14 526.23,159.14 526.23,159.14 Z"/>
+						</defs>
+						<mask id="mfid260">
+							<use xlink:href="#mfid259" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid261" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid260)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid262"
+									d="M0.35395,-0.010417 C0.35395,0.11334 0.25839,0.21367 0.14051,0.21367 C0.022628,0.21367 -0.072932,0.11334 -0.072932,-0.010417 C-0.072932,-0.13418 0.022628,-0.2345 0.14051,-0.2345 C0.25839,-0.2345 0.35395,-0.13418 0.35395,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid263">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#ffffff"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</radialGradient>
+						<g mask="url(#mfid261)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 513.74, 165.75)">
+									<g fill="white" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid264" x="-0.010417" y="-0.010417" width="0.15092" height="0.15845"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.15092" height="0.15845" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid262" stroke="none" mask="url(#mfid264)" fill="url(#mfid263)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid259" fill="none"/>
+									<defs>
+										<path id="mfid265"
+												d="M525.95,159.14 C525.95,155.66 523.28,152.83 519.99,152.83 C516.69,152.83 514.03,155.66 514.03,159.14 C514.03,162.62 516.69,165.44 519.99,165.44 C523.28,165.44 525.95,162.62 525.95,159.14 C525.95,159.14 525.95,159.14 525.95,159.14 Z"/>
+									</defs>
+								</g>
+								<g fill="#e6e6e6" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid265" fill-rule="evenodd" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid266"
+									d="M518,154 L522,154 L521.84,153.68 C522.54,153.68 523.17,154.06 523.5,154.66 L524,155 L525,158 L525.45,158.23 C525.76,158.8 525.76,159.48 525.45,160.04 L525,160 L524,164 L523.5,163.62 C523.17,164.22 522.54,164.6 521.84,164.6 L522,165 L518,165 L518.13,164.6 C517.44,164.6 516.8,164.22 516.47,163.62 L516,164 L515,160 L514.52,160.04 C514.21,159.48 514.21,158.8 514.52,158.23 L515,158 L516,155 L516.47,154.66 C516.8,154.06 517.44,153.68 518.13,153.68 Z"/>
+						</defs>
+						<mask id="mfid267">
+							<use xlink:href="#mfid266" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid268" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid267)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid269" gradientUnits="userSpaceOnUse" x1="-0.0076758" y1="0.056882" x2="0.13185"
+								y2="0.056882" spreadMethod="repeat"
+								gradientTransform="matrix(-0.000001068, 0.96466, -1.0366, -0.000000069193, 0.12106, -0.0030121)">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</linearGradient>
+						<g mask="url(#mfid268)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 514.03, 164.6)">
+									<g fill="url(#mfid269)" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.0076758" y="-0.010417" width="0.13953" height="0.1346" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid269)" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid266" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid270"
+									d="M524.95,159.14 C524.95,156.24 522.73,153.88 519.99,153.88 C517.24,153.88 515.02,156.24 515.02,159.14 C515.02,162.04 517.24,164.39 519.99,164.39 C522.73,164.39 524.95,162.04 524.95,159.14 C524.95,159.14 524.95,159.14 524.95,159.14 Z"/>
+						</defs>
+						<mask id="mfid271">
+							<use xlink:href="#mfid270" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid272" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid271)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid273"
+									d="M0.28971,-0.010417 C0.28971,0.091357 0.21099,0.17386 0.1139,0.17386 C0.016802,0.17386 -0.06191,0.091357 -0.06191,-0.010417 C-0.06191,-0.11219 0.016802,-0.19469 0.1139,-0.19469 C0.21099,-0.19469 0.28971,-0.11219 0.28971,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid274">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#e6e6e6"/>
+							<stop offset="1" stop-color="#e6e6e6"/>
+						</radialGradient>
+						<g mask="url(#mfid272)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 515.02, 164.39)">
+									<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid275" x="-0.010417" y="-0.010417" width="0.12431" height="0.1303"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.12431" height="0.1303" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid273" stroke="none" mask="url(#mfid275)" fill="url(#mfid274)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid270" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid276"
+									d="M524.24,159.14 C524.24,156.65 522.34,154.64 519.99,154.64 C517.63,154.64 515.73,156.65 515.73,159.14 C515.73,161.63 517.63,163.64 519.99,163.64 C522.34,163.64 524.24,161.63 524.24,159.14 C524.24,159.14 524.24,159.14 524.24,159.14 Z"/>
+						</defs>
+						<mask id="mfid277">
+							<use xlink:href="#mfid276" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid278" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid277)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid279"
+									d="M0.25402,-0.010417 C0.25402,0.079142 0.18466,0.15174 0.099115,0.15174 C0.013565,0.15174 -0.055786,0.079142 -0.055786,-0.010417 C-0.055786,-0.099976 0.013565,-0.17258 0.099115,-0.17258 C0.18466,-0.17258 0.25402,-0.099976 0.25402,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid280">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#e6e6e6"/>
+							<stop offset="1" stop-color="#e6e6e6"/>
+						</radialGradient>
+						<g mask="url(#mfid278)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 515.73, 163.64)">
+									<g fill="white" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid281" x="-0.010417" y="-0.010417" width="0.10953" height="0.11467"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.10953" height="0.11467" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid279" stroke="none" mask="url(#mfid281)" fill="url(#mfid280)"/>
+										<defs>
+											<path id="mfid282"
+													d="M523.73,159.14 C523.73,156.95 522.05,155.18 519.99,155.18 C517.92,155.18 516.24,156.95 516.24,159.14 C516.24,161.33 517.92,163.1 519.99,163.1 C522.05,163.1 523.73,161.33 523.73,159.14 C523.73,159.14 523.73,159.14 523.73,159.14 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#333333" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid282" fill-rule="evenodd" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid283"
+									d="M637.47,159.14 C637.47,155.49 634.68,152.53 631.23,152.53 C627.78,152.53 624.99,155.49 624.99,159.14 C624.99,162.79 627.78,165.75 631.23,165.75 C634.68,165.75 637.47,162.79 637.47,159.14 C637.47,159.14 637.47,159.14 637.47,159.14 Z"/>
+						</defs>
+						<mask id="mfid284">
+							<use xlink:href="#mfid283" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid285" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid284)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid286"
+									d="M0.35395,-0.010417 C0.35395,0.11334 0.25839,0.21367 0.14051,0.21367 C0.022628,0.21367 -0.072932,0.11334 -0.072932,-0.010417 C-0.072932,-0.13418 0.022628,-0.2345 0.14051,-0.2345 C0.25839,-0.2345 0.35395,-0.13418 0.35395,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid287">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#ffffff"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</radialGradient>
+						<g mask="url(#mfid285)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 624.99, 165.75)">
+									<g fill="white" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid288" x="-0.010417" y="-0.010417" width="0.15092" height="0.15845"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.15092" height="0.15845" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid286" stroke="none" mask="url(#mfid288)" fill="url(#mfid287)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid283" fill="none"/>
+									<defs>
+										<path id="mfid289"
+												d="M637.19,159.14 C637.19,155.66 634.52,152.83 631.23,152.83 C627.94,152.83 625.27,155.66 625.27,159.14 C625.27,162.62 627.94,165.44 631.23,165.44 C634.52,165.44 637.19,162.62 637.19,159.14 C637.19,159.14 637.19,159.14 637.19,159.14 Z"/>
+									</defs>
+								</g>
+								<g fill="#e6e6e6" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid289" fill-rule="evenodd" stroke="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid290"
+									d="M629,154 L633,154 L633.09,153.68 C633.78,153.68 634.42,154.06 634.75,154.66 L635,155 L637,158 L636.7,158.23 C637,158.8 637,159.48 636.7,160.04 L637,160 L635,164 L634.75,163.62 C634.42,164.22 633.78,164.6 633.09,164.6 L633,165 L629,165 L629.37,164.6 C628.68,164.6 628.04,164.22 627.71,163.62 L628,164 L626,160 L625.76,160.04 C625.46,159.48 625.46,158.8 625.76,158.23 L626,158 L628,155 L627.71,154.66 C628.04,154.06 628.68,153.68 629.37,153.68 Z"/>
+						</defs>
+						<mask id="mfid291">
+							<use xlink:href="#mfid290" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid292" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid291)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid293" gradientUnits="userSpaceOnUse" x1="-0.0076758" y1="0.056882" x2="0.13185"
+								y2="0.056882" spreadMethod="repeat"
+								gradientTransform="matrix(-0.000001068, 0.96466, -1.0366, -0.000000069193, 0.12106, -0.0030121)">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</linearGradient>
+						<g mask="url(#mfid292)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 625.27, 164.6)">
+									<g fill="url(#mfid293)" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.0076758" y="-0.010417" width="0.13953" height="0.1346" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid293)" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid290" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid294"
+									d="M636.2,159.14 C636.2,156.24 633.97,153.88 631.23,153.88 C628.49,153.88 626.26,156.24 626.26,159.14 C626.26,162.04 628.49,164.39 631.23,164.39 C633.97,164.39 636.2,162.04 636.2,159.14 C636.2,159.14 636.2,159.14 636.2,159.14 Z"/>
+						</defs>
+						<mask id="mfid295">
+							<use xlink:href="#mfid294" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid296" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid295)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid297"
+									d="M0.28971,-0.010417 C0.28971,0.091357 0.21099,0.17386 0.1139,0.17386 C0.016802,0.17386 -0.06191,0.091357 -0.06191,-0.010417 C-0.06191,-0.11219 0.016802,-0.19469 0.1139,-0.19469 C0.21099,-0.19469 0.28971,-0.11219 0.28971,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid298">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#e6e6e6"/>
+							<stop offset="1" stop-color="#e6e6e6"/>
+						</radialGradient>
+						<g mask="url(#mfid296)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 626.26, 164.39)">
+									<g fill="white" stroke-width="0.32" stroke="#9a9a9a" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid299" x="-0.010417" y="-0.010417" width="0.12431" height="0.1303"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.12431" height="0.1303" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid297" stroke="none" mask="url(#mfid299)" fill="url(#mfid298)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round" stroke-linejoin="round">
+									<use xlink:href="#mfid294" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid300"
+									d="M635.49,159.14 C635.49,156.65 633.58,154.64 631.23,154.64 C628.88,154.64 626.97,156.65 626.97,159.14 C626.97,161.63 628.88,163.64 631.23,163.64 C633.58,163.64 635.49,161.63 635.49,159.14 C635.49,159.14 635.49,159.14 635.49,159.14 Z"/>
+						</defs>
+						<mask id="mfid301">
+							<use xlink:href="#mfid300" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid302" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid301)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid303"
+									d="M0.25402,-0.010417 C0.25402,0.079142 0.18466,0.15174 0.099115,0.15174 C0.013565,0.15174 -0.055786,0.079142 -0.055786,-0.010417 C-0.055786,-0.099976 0.013565,-0.17258 0.099115,-0.17258 C0.18466,-0.17258 0.25402,-0.099976 0.25402,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid304">
+							<stop offset="0" stop-color="#9a9a9a"/>
+							<stop offset="0.70711" stop-color="#e6e6e6"/>
+							<stop offset="1" stop-color="#e6e6e6"/>
+						</radialGradient>
+						<g mask="url(#mfid302)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 626.97, 163.64)">
+									<g fill="white" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid305" x="-0.010417" y="-0.010417" width="0.10953" height="0.11467"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.10953" height="0.11467" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid303" stroke="none" mask="url(#mfid305)" fill="url(#mfid304)"/>
+										<defs>
+											<path id="mfid306"
+													d="M634.98,159.14 C634.98,156.95 633.3,155.18 631.23,155.18 C629.16,155.18 627.48,156.95 627.48,159.14 C627.48,161.33 629.16,163.1 631.23,163.1 C633.3,163.1 634.98,161.33 634.98,159.14 C634.98,159.14 634.98,159.14 634.98,159.14 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#333333" stroke-width="0.32" stroke="#e6e6e6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid306" fill-rule="evenodd" stroke="none"/>
+									<defs>
+										<path id="mfid307"
+												d="M535.44,166.08 L616.34,166.08 C617.25,166.08 618.03,165.45 618.22,164.57 L618.22,164.57 L620.39,154.52 C620.61,153.49 619.95,152.47 618.92,152.24 C618.78,152.21 618.65,152.2 618.51,152.2 L618.51,152.2 L533.27,152.2 C532.21,152.2 531.35,153.06 531.35,154.12 C531.35,154.25 531.36,154.39 531.39,154.52 L533.56,164.57 C533.75,165.45 534.54,166.08 535.44,166.08 Z"/>
+									</defs>
+									<use xlink:href="#mfid307" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#333333" stroke-width="1.6" stroke="#c0c0c0" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid307" fill="none"/>
+									<defs>
+										<path id="mfid308" d="M616.55,160.64 L535.23,160.64"/>
+									</defs>
+								</g>
+								<g fill="#333333" stroke-width="1.6" stroke="#c0c0c0" stroke-linecap="square" stroke-miterlimit="2"
+										stroke-dasharray="3.2,1.6">
+									<use xlink:href="#mfid308" fill="none"/>
+									<defs>
+										<path id="mfid309" d="M616.55,157.48 L535.23,157.48"/>
+									</defs>
+									<use xlink:href="#mfid309" fill="none"/>
+									<defs>
+										<path id="mfid310"
+												d="M334,33 L448,33 L448.14,32.64 C449.73,32.64 451.02,31.351 451.02,29.76 C451.02,29.76 451.02,29.76 451.02,29.76 L451,30 L451,15 L451.02,14.52 C451.02,12.929 449.73,11.64 448.14,11.64 L448,12 L334,12 L333.9,11.64 C332.31,11.64 331.02,12.929 331.02,14.52 L331,15 L331,30 L331.02,29.76 C331.02,31.351 332.31,32.64 333.9,32.64 Z"/>
+									</defs>
+								</g>
+								<g fill="#bfbfbf" stroke-width="1.6" stroke="#c0c0c0" stroke-linecap="square" stroke-miterlimit="2"
+										stroke-dasharray="3.2,1.6">
+									<use xlink:href="#mfid310" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid310" fill="none"/>
+								</g>
+								<g transform="matrix(96, 0, 0, 96, 331.02, 11.64)">
+									<g fill="#3f3f3f" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<g font-size="0.125" font-family="ARIAL NARROW" font-weight="bold">
+											<text stroke="none" xml:space="preserve" x="0.29465 0.36862 0.4426 0.51096 0.53946"
+													y="0.14688 0.14688 0.14688 0.14688 0.14688">UCS B</text>
+											<text stroke="none" xml:space="preserve" x="0.61343 0.67044 0.72745 0.78445"
+													y="0.14688 0.14688 0.14688 0.14688">200 </text>
+											<text stroke="none" xml:space="preserve" x="0.81296" y="0.14688">M</text>
+											<text stroke="none" xml:space="preserve" x="0.89835" y="0.14688">3</text>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid311" d="M331,10 L451,10 L451,2 L331,2 L331,10 Z"/>
+						</defs>
+						<mask id="mfid312">
+							<use xlink:href="#mfid311" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid313" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid312)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid314" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.0425" x2="1.2604"
+								y2="0.0425" spreadMethod="repeat"
+								gradientTransform="matrix(-0.00000093804, 0.083279, -12.008, -0.000000087999, 1.1353, -0.0095492)">
+							<stop offset="0" stop-color="#7f7f7f"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</linearGradient>
+						<g mask="url(#mfid313)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 331.02, 10.14)">
+									<g fill="url(#mfid314)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="1.2708" height="0.10583" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid314)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid311" fill="none"/>
+									<defs>
+										<path id="mfid315"
+												d="M29,15 L29,88 L33,88 L33,85 L319,85 L319,88 L323,88 L323,11 L29,11 L29,15 Z"/>
+									</defs>
+								</g>
+								<g fill="#262626" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid315" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#262626" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid315" fill="none"/>
+								</g>
+								<g fill="#7f7f7f" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="242" y="20" width="49" height="60" stroke="none"/>
+									<defs>
+										<path id="mfid316" d="M242,80 L291,80 L291,20 L242,20 L242,80 Z"/>
+									</defs>
+								</g>
+								<g fill="#7f7f7f" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid316" fill="none"/>
+									<defs>
+										<path id="mfid317" d="M274,57 L281,53 L281,45 L274,41 L267,45 L267,53 L274,57 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid317" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#737373" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid317" fill="none"/>
+									<defs>
+										<path id="mfid318" d="M258,57 L264,53 L264,45 L258,41 L251,45 L251,53 L258,57 Z"/>
+									</defs>
+									<use xlink:href="#mfid318" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid318" fill="none"/>
+									<defs>
+										<path id="mfid319" d="M249,71 L256,67 L256,59 L249,55 L243,59 L243,67 L249,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid319" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid319" fill="none"/>
+									<defs>
+										<path id="mfid320" d="M282,71 L289,67 L289,59 L282,55 L275,59 L275,67 L282,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid320" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid320" fill="none"/>
+									<defs>
+										<path id="mfid321" d="M266,71 L273,67 L273,59 L266,55 L259,59 L259,67 L266,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid321" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid321" fill="none"/>
+									<defs>
+										<path id="mfid322" d="M249,43 L256,39 L256,31 L249,27 L243,31 L243,39 L249,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid322" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid322" fill="none"/>
+									<defs>
+										<path id="mfid323" d="M282,43 L289,39 L289,31 L282,27 L275,31 L275,39 L282,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid323" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid323" fill="none"/>
+									<defs>
+										<path id="mfid324" d="M266,43 L273,39 L273,31 L266,27 L259,31 L259,39 L266,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid324" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid324" fill="none"/>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#737373" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="292.23" y="20.004" width="27" height="60.081" stroke="none"/>
+									<defs>
+										<path id="mfid325"
+												d="M292.23,80.085 L319.23,80.085 L319.23,20.004 L292.23,20.004 L292.23,80.085 Z"/>
+									</defs>
+								</g>
+								<g fill="#bfbfbf" stroke-width="2.88" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid325" fill="none"/>
+									<rect x="28.98" y="19.635" width="20.04" height="62.4" stroke="none"/>
+									<defs>
+										<path id="mfid326"
+												d="M49.02,82.035 L28.98,82.035 L28.98,19.635 L49.02,19.635 L49.02,82.035 Z"/>
+									</defs>
+									<use xlink:href="#mfid326" fill="none"/>
+									<rect x="49.02" y="20.004" width="159.21" height="60.081" stroke="none"/>
+									<defs>
+										<path id="mfid327"
+												d="M49.02,80.085 L208.23,80.085 L208.23,20.004 L49.02,20.004 L49.02,80.085 Z"/>
+									</defs>
+									<use xlink:href="#mfid327" fill="none"/>
+								</g>
+								<g fill="#a6a6a6" stroke-width="2.88" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="214" y="20" width="27" height="60" stroke="none"/>
+									<defs>
+										<path id="mfid328" d="M214,80 L241,80 L241,20 L214,20 L214,80 Z"/>
+									</defs>
+								</g>
+								<g fill="#a6a6a6" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid328" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid329"
+									d="M237.33,49.14 C237.33,43.838 233.03,39.54 227.73,39.54 C222.43,39.54 218.13,43.838 218.13,49.14 C218.13,54.442 222.43,58.74 227.73,58.74 C233.03,58.74 237.33,54.442 237.33,49.14 Z"/>
+						</defs>
+						<mask id="mfid330">
+							<use xlink:href="#mfid329" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid331" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid330)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid332"
+									d="M0.30189,-0.010417 C0.30189,0.16206 0.16206,0.30189 -0.010417,0.30189 C-0.1829,0.30189 -0.32272,0.16206 -0.32272,-0.010417 C-0.32272,-0.1829 -0.1829,-0.32272 -0.010417,-0.32272 C0.16206,-0.32272 0.30189,-0.1829 0.30189,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid333">
+							<stop offset="0" stop-color="#f2f2f2"/>
+							<stop offset="0.70711" stop-color="#8c8c8c"/>
+							<stop offset="1" stop-color="#8c8c8c"/>
+						</radialGradient>
+						<g mask="url(#mfid331)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 218.13, 58.74)">
+									<g fill="white" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid334" x="-0.010417" y="-0.010417" width="0.22083" height="0.22083"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.22083" height="0.22083" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid332" stroke="none" mask="url(#mfid334)" fill="url(#mfid333)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid335"
+									d="M314.91,31.168 C314.91,32.968 313.53,34.424 312,34 L311.82,34.424 C310.11,34.424 308.73,32.968 309,31 L308.73,31.168 C308.73,29.367 310.12,27.91 312,28 L311.82,27.91 C313.53,27.91 314.91,29.369 315,31 Z"/>
+						</defs>
+						<mask id="mfid336">
+							<use xlink:href="#mfid335" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid337" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid336)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid338"
+									d="M0.11009,0.078271 C0.11009,0.14754 0.056135,0.2037 -0.010417,0.2037 C-0.076969,0.2037 -0.13092,0.14754 -0.13092,0.078271 C-0.13092,0.0090017 -0.076969,-0.047152 -0.010417,-0.047152 C0.056135,-0.047152 0.11009,0.0090017 0.11009,0.078271 Z"/>
+						</defs>
+						<radialGradient id="mfid339">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#000000"/>
+							<stop offset="1" stop-color="#000000"/>
+						</radialGradient>
+						<g mask="url(#mfid337)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 308.73, 34.424)">
+									<g fill="white" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid340" x="-0.010417" y="-0.010417" width="0.085208" height="0.088688"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.085208" height="0.088688" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid338" stroke="none" mask="url(#mfid340)" fill="url(#mfid339)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid335" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid341"
+									d="M314.91,53.113 C314.91,54.914 313.53,56.369 312,56 L311.82,56.369 C310.11,56.369 308.73,54.914 309,53 L308.73,53.113 C308.73,51.313 310.12,49.855 312,50 L311.82,49.855 C313.53,49.855 314.91,51.315 315,53 Z"/>
+						</defs>
+						<mask id="mfid342">
+							<use xlink:href="#mfid341" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid343" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid342)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid344"
+									d="M0.11009,0.078271 C0.11009,0.14754 0.056135,0.2037 -0.010417,0.2037 C-0.076969,0.2037 -0.13092,0.14754 -0.13092,0.078271 C-0.13092,0.0090017 -0.076969,-0.047152 -0.010417,-0.047152 C0.056135,-0.047152 0.11009,0.0090017 0.11009,0.078271 Z"/>
+						</defs>
+						<radialGradient id="mfid345">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#000000"/>
+							<stop offset="1" stop-color="#000000"/>
+						</radialGradient>
+						<g mask="url(#mfid343)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 308.73, 56.369)">
+									<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+										<mask id="mfid346" x="-0.010417" y="-0.010417" width="0.085208" height="0.088688"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.085208" height="0.088688" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid344" stroke="none" mask="url(#mfid346)" fill="url(#mfid345)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid341" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid347" d="M28,13 L325,13 L325,2 L28,2 L28,13 Z"/>
+						</defs>
+						<mask id="mfid348">
+							<use xlink:href="#mfid347" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid349" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid348)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid350" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.058125" x2="3.1042"
+								y2="0.058125" spreadMethod="repeat"
+								gradientTransform="matrix(-0.00000076549, 0.044013, -22.72, -0.000000067938, 2.8675, -0.0099582)">
+							<stop offset="0" stop-color="#7f7f7f"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</linearGradient>
+						<g mask="url(#mfid349)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 28.02, 13.14)">
+									<g fill="url(#mfid350)" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+										<rect x="-0.010417" y="-0.010417" width="3.1146" height="0.13708" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid350)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid347" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid351" d="M240,80 L242,80 L242,20 L240,20 L240,80 Z"/>
+						</defs>
+						<mask id="mfid352">
+							<use xlink:href="#mfid351" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid353" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid352)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid354" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.31292" x2="0.033854"
+								y2="0.31292" spreadMethod="repeat"
+								gradientTransform="matrix(1, -0, -0, 1, 0.00000000040662, 0.00000000031072)">
+							<stop offset="0" stop-color="#595959"/>
+							<stop offset="0.5" stop-color="#ffffff"/>
+							<stop offset="1" stop-color="#595959"/>
+						</linearGradient>
+						<g mask="url(#mfid353)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 239.52, 80.085)">
+									<g fill="url(#mfid354)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.044271" height="0.64668" stroke="none"/>
+										<defs>
+											<path id="mfid355"
+													d="M461,15 L461,88 L465,88 L465,85 L751,85 L751,88 L755,88 L755,11 L461,11 L461,15 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#262626" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid355" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#262626" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid355" fill="none"/>
+								</g>
+								<g fill="#7f7f7f" stroke-width="0.96" stroke="#000000" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="674" y="20" width="49" height="60" stroke="none"/>
+									<defs>
+										<path id="mfid356" d="M674,80 L723,80 L723,20 L674,20 L674,80 Z"/>
+									</defs>
+								</g>
+								<g fill="#7f7f7f" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid356" fill="none"/>
+									<defs>
+										<path id="mfid357" d="M706,57 L713,53 L713,45 L706,41 L699,45 L699,53 L706,57 Z"/>
+									</defs>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid357" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#737373" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid357" fill="none"/>
+									<defs>
+										<path id="mfid358" d="M690,57 L696,53 L696,45 L690,41 L683,45 L683,53 L690,57 Z"/>
+									</defs>
+									<use xlink:href="#mfid358" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid358" fill="none"/>
+									<defs>
+										<path id="mfid359" d="M681,71 L688,67 L688,59 L681,55 L675,59 L675,67 L681,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid359" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid359" fill="none"/>
+									<defs>
+										<path id="mfid360" d="M714,71 L721,67 L721,59 L714,55 L707,59 L707,67 L714,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid360" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid360" fill="none"/>
+									<defs>
+										<path id="mfid361" d="M698,71 L705,67 L705,59 L698,55 L691,59 L691,67 L698,71 Z"/>
+									</defs>
+									<use xlink:href="#mfid361" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid361" fill="none"/>
+									<defs>
+										<path id="mfid362" d="M681,43 L688,39 L688,31 L681,27 L675,31 L675,39 L681,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid362" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid362" fill="none"/>
+									<defs>
+										<path id="mfid363" d="M714,43 L721,39 L721,31 L714,27 L707,31 L707,39 L714,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid363" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid363" fill="none"/>
+									<defs>
+										<path id="mfid364" d="M698,43 L705,39 L705,31 L698,27 L691,31 L691,39 L698,43 Z"/>
+									</defs>
+									<use xlink:href="#mfid364" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid364" fill="none"/>
+								</g>
+								<g fill="#bfbfbf" stroke-width="0.96" stroke="#737373" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="724.23" y="20.004" width="27" height="60.081" stroke="none"/>
+									<defs>
+										<path id="mfid365"
+												d="M724.23,80.085 L751.23,80.085 L751.23,20.004 L724.23,20.004 L724.23,80.085 Z"/>
+									</defs>
+								</g>
+								<g fill="#bfbfbf" stroke-width="2.88" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid365" fill="none"/>
+									<rect x="460.98" y="19.635" width="20.04" height="62.4" stroke="none"/>
+									<defs>
+										<path id="mfid366"
+												d="M481.02,82.035 L460.98,82.035 L460.98,19.635 L481.02,19.635 L481.02,82.035 Z"/>
+									</defs>
+									<use xlink:href="#mfid366" fill="none"/>
+									<rect x="481.02" y="20.004" width="159.21" height="60.081" stroke="none"/>
+									<defs>
+										<path id="mfid367"
+												d="M481.02,80.085 L640.23,80.085 L640.23,20.004 L481.02,20.004 L481.02,80.085 Z"/>
+									</defs>
+									<use xlink:href="#mfid367" fill="none"/>
+								</g>
+								<g fill="#a6a6a6" stroke-width="2.88" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<rect x="646" y="20" width="27" height="60" stroke="none"/>
+									<defs>
+										<path id="mfid368" d="M646,80 L673,80 L673,20 L646,20 L646,80 Z"/>
+									</defs>
+								</g>
+								<g fill="#a6a6a6" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid368" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid369"
+									d="M669.33,49.14 C669.33,43.838 665.03,39.54 659.73,39.54 C654.43,39.54 650.13,43.838 650.13,49.14 C650.13,54.442 654.43,58.74 659.73,58.74 C665.03,58.74 669.33,54.442 669.33,49.14 Z"/>
+						</defs>
+						<mask id="mfid370">
+							<use xlink:href="#mfid369" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid371" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid370)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid372"
+									d="M0.30189,-0.010417 C0.30189,0.16206 0.16206,0.30189 -0.010417,0.30189 C-0.1829,0.30189 -0.32272,0.16206 -0.32272,-0.010417 C-0.32272,-0.1829 -0.1829,-0.32272 -0.010417,-0.32272 C0.16206,-0.32272 0.30189,-0.1829 0.30189,-0.010417 Z"/>
+						</defs>
+						<radialGradient id="mfid373">
+							<stop offset="0" stop-color="#f2f2f2"/>
+							<stop offset="0.70711" stop-color="#8c8c8c"/>
+							<stop offset="1" stop-color="#8c8c8c"/>
+						</radialGradient>
+						<g mask="url(#mfid371)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 650.13, 58.74)">
+									<g fill="white" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid374" x="-0.010417" y="-0.010417" width="0.22083" height="0.22083"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.22083" height="0.22083" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid372" stroke="none" mask="url(#mfid374)" fill="url(#mfid373)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid375"
+									d="M746.91,31.168 C746.91,32.968 745.53,34.424 744,34 L743.82,34.424 C742.11,34.424 740.73,32.968 741,31 L740.73,31.168 C740.73,29.367 742.12,27.91 744,28 L743.82,27.91 C745.53,27.91 746.91,29.369 747,31 Z"/>
+						</defs>
+						<mask id="mfid376">
+							<use xlink:href="#mfid375" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid377" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid376)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid378"
+									d="M0.11009,0.078271 C0.11009,0.14754 0.056135,0.2037 -0.010417,0.2037 C-0.076969,0.2037 -0.13092,0.14754 -0.13092,0.078271 C-0.13092,0.0090017 -0.076969,-0.047152 -0.010417,-0.047152 C0.056135,-0.047152 0.11009,0.0090017 0.11009,0.078271 Z"/>
+						</defs>
+						<radialGradient id="mfid379">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#000000"/>
+							<stop offset="1" stop-color="#000000"/>
+						</radialGradient>
+						<g mask="url(#mfid377)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 740.73, 34.424)">
+									<g fill="white" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<mask id="mfid380" x="-0.010417" y="-0.010417" width="0.085208" height="0.088688"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.085208" height="0.088688" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid378" stroke="none" mask="url(#mfid380)" fill="url(#mfid379)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid375" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid381"
+									d="M746.91,53.113 C746.91,54.914 745.53,56.369 744,56 L743.82,56.369 C742.11,56.369 740.73,54.914 741,53 L740.73,53.113 C740.73,51.313 742.12,49.855 744,50 L743.82,49.855 C745.53,49.855 746.91,51.315 747,53 Z"/>
+						</defs>
+						<mask id="mfid382">
+							<use xlink:href="#mfid381" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid383" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid382)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<defs>
+							<path id="mfid384"
+									d="M0.11009,0.078271 C0.11009,0.14754 0.056135,0.2037 -0.010417,0.2037 C-0.076969,0.2037 -0.13092,0.14754 -0.13092,0.078271 C-0.13092,0.0090017 -0.076969,-0.047152 -0.010417,-0.047152 C0.056135,-0.047152 0.11009,0.0090017 0.11009,0.078271 Z"/>
+						</defs>
+						<radialGradient id="mfid385">
+							<stop offset="0" stop-color="#ffffff"/>
+							<stop offset="0.70711" stop-color="#000000"/>
+							<stop offset="1" stop-color="#000000"/>
+						</radialGradient>
+						<g mask="url(#mfid383)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 740.73, 56.369)">
+									<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+										<mask id="mfid386" x="-0.010417" y="-0.010417" width="0.085208" height="0.088688"
+												maskUnits="userSpaceOnUse">
+											<rect x="-0.010417" y="-0.010417" width="0.085208" height="0.088688" stroke="none"/>
+										</mask>
+										<use xlink:href="#mfid384" stroke="none" mask="url(#mfid386)" fill="url(#mfid385)"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="white" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+									<use xlink:href="#mfid381" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid387" d="M460,13 L757,13 L757,2 L460,2 L460,13 Z"/>
+						</defs>
+						<mask id="mfid388">
+							<use xlink:href="#mfid387" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid389" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid388)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid390" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.058125" x2="3.1042"
+								y2="0.058125" spreadMethod="repeat"
+								gradientTransform="matrix(-0.00000076549, 0.044013, -22.72, -0.000000067938, 2.8675, -0.0099582)">
+							<stop offset="0" stop-color="#7f7f7f"/>
+							<stop offset="1" stop-color="#ffffff"/>
+						</linearGradient>
+						<g mask="url(#mfid389)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 460.02, 13.14)">
+									<g fill="url(#mfid390)" stroke-width="0.5" stroke="#4d4d4d" stroke-miterlimit="2">
+										<rect x="-0.010417" y="-0.010417" width="3.1146" height="0.13708" stroke="none"/>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="url(#mfid390)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid387" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid391" d="M672,80 L674,80 L674,20 L672,20 L672,80 Z"/>
+						</defs>
+						<mask id="mfid392">
+							<use xlink:href="#mfid391" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid393" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid392)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid394" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.31292" x2="0.033854"
+								y2="0.31292" spreadMethod="repeat"
+								gradientTransform="matrix(1, -0, -0, 1, 0.00000000040662, 0.00000000031072)">
+							<stop offset="0" stop-color="#595959"/>
+							<stop offset="0.5" stop-color="#ffffff"/>
+							<stop offset="1" stop-color="#595959"/>
+						</linearGradient>
+						<g mask="url(#mfid393)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 671.52, 80.085)">
+									<g fill="url(#mfid394)" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.044271" height="0.64668" stroke="none"/>
+										<defs>
+											<path id="mfid395" d="M346,99 L354,95 L354,86 L346,82 L338,86 L338,95 L346,99 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#000000" stroke-width="0.96" stroke="#a6a6a6" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid395" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#000000" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid395" fill="none"/>
+									<defs>
+										<path id="mfid396" d="M383,99 L391,95 L391,86 L383,82 L375,86 L375,95 L383,99 Z"/>
+									</defs>
+									<use xlink:href="#mfid396" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid396" fill="none"/>
+									<defs>
+										<path id="mfid397" d="M365,99 L372,95 L372,86 L365,82 L357,86 L357,95 L365,99 Z"/>
+									</defs>
+									<use xlink:href="#mfid397" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid397" fill="none"/>
+									<defs>
+										<path id="mfid398" d="M420,99 L428,95 L428,86 L420,82 L412,86 L412,95 L420,99 Z"/>
+									</defs>
+									<use xlink:href="#mfid398" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid398" fill="none"/>
+									<defs>
+										<path id="mfid399" d="M402,99 L409,95 L409,86 L402,82 L394,86 L394,95 L402,99 Z"/>
+									</defs>
+									<use xlink:href="#mfid399" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid399" fill="none"/>
+									<defs>
+										<path id="mfid400" d="M439,99 L446,95 L446,86 L439,82 L431,86 L431,95 L439,99 Z"/>
+									</defs>
+									<use xlink:href="#mfid400" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid400" fill="none"/>
+									<defs>
+										<path id="mfid401" d="M329,98 L335,95 L335,86 L329,82 L329,98 Z"/>
+									</defs>
+									<use xlink:href="#mfid401" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid401" fill="none"/>
+									<defs>
+										<path id="mfid402" d="M355,83 L363,79 L363,70 L355,66 L347,70 L347,79 L355,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid402" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid402" fill="none"/>
+									<defs>
+										<path id="mfid403" d="M392,83 L400,79 L400,70 L392,66 L384,70 L384,79 L392,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid403" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid403" fill="none"/>
+									<defs>
+										<path id="mfid404" d="M373,83 L381,79 L381,70 L373,66 L366,70 L366,79 L373,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid404" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid404" fill="none"/>
+									<defs>
+										<path id="mfid405" d="M429,83 L437,79 L437,70 L429,66 L421,70 L421,79 L429,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid405" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid405" fill="none"/>
+									<defs>
+										<path id="mfid406" d="M410,83 L418,79 L418,70 L410,66 L403,70 L403,79 L410,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid406" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid406" fill="none"/>
+									<defs>
+										<path id="mfid407" d="M446,82 L446,67 L440,70 L440,79 L446,82 Z"/>
+									</defs>
+									<use xlink:href="#mfid407" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid407" fill="none"/>
+									<defs>
+										<path id="mfid408" d="M337,83 L344,79 L344,70 L337,66 L329,70 L329,79 L337,83 Z"/>
+									</defs>
+									<use xlink:href="#mfid408" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid408" fill="none"/>
+									<defs>
+										<path id="mfid409" d="M346,68 L354,63 L354,54 L346,50 L338,54 L338,63 L346,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid409" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid409" fill="none"/>
+									<defs>
+										<path id="mfid410" d="M383,68 L391,63 L391,54 L383,50 L375,54 L375,63 L383,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid410" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid410" fill="none"/>
+									<defs>
+										<path id="mfid411" d="M365,68 L372,63 L372,54 L365,50 L357,54 L357,63 L365,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid411" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid411" fill="none"/>
+									<defs>
+										<path id="mfid412" d="M420,68 L428,63 L428,54 L420,50 L412,54 L412,63 L420,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid412" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid412" fill="none"/>
+									<defs>
+										<path id="mfid413" d="M402,68 L409,63 L409,54 L402,50 L394,54 L394,63 L402,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid413" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid413" fill="none"/>
+									<defs>
+										<path id="mfid414" d="M439,68 L446,63 L446,54 L439,50 L431,54 L431,63 L439,68 Z"/>
+									</defs>
+									<use xlink:href="#mfid414" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid414" fill="none"/>
+									<defs>
+										<path id="mfid415" d="M329,66 L335,63 L335,54 L329,51 L329,66 Z"/>
+									</defs>
+									<use xlink:href="#mfid415" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid415" fill="none"/>
+									<defs>
+										<path id="mfid416" d="M337,51 L344,47 L344,38 L337,34 L329,38 L329,47 L337,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid416" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid416" fill="none"/>
+									<defs>
+										<path id="mfid417" d="M374,51 L381,47 L381,38 L374,34 L366,38 L366,47 L374,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid417" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid417" fill="none"/>
+									<defs>
+										<path id="mfid418" d="M355,51 L363,47 L363,38 L355,34 L348,38 L348,47 L355,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid418" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid418" fill="none"/>
+									<defs>
+										<path id="mfid419" d="M411,51 L418,47 L418,38 L411,34 L403,38 L403,47 L411,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid419" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid419" fill="none"/>
+									<defs>
+										<path id="mfid420" d="M392,51 L400,47 L400,38 L392,34 L385,38 L385,47 L392,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid420" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid420" fill="none"/>
+									<defs>
+										<path id="mfid421" d="M448,51 L455,47 L455,38 L448,34 L440,38 L440,47 L448,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid421" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid421" fill="none"/>
+									<defs>
+										<path id="mfid422" d="M429,51 L437,47 L437,38 L429,34 L421,38 L421,47 L429,51 Z"/>
+									</defs>
+									<use xlink:href="#mfid422" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid422" fill="none"/>
+									<defs>
+										<path id="mfid423" d="M451,76 L451,82 L460,82 L460,52 L451,52 L451,76 Z"/>
+									</defs>
+								</g>
+								<g fill="#595959" stroke-width="0.96" stroke="#808080" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid423" fill-rule="evenodd" stroke="none"/>
+								</g>
+								<g fill="#595959" stroke-width="0.33333" stroke="#595959" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid423" fill="none"/>
+								</g>
+							</g>
+						</g>
+						<!-- GetDC -->
+						<!-- Released DC -->
+						<defs>
+							<path id="mfid424" d="M451,78 L456,78 L456,57 L451,57 L451,78 Z"/>
+						</defs>
+						<mask id="mfid425">
+							<use xlink:href="#mfid424" fill-rule="evenodd" fill="white" stroke="none"/>
+						</mask>
+						<mask id="mfid426" fill="white" stroke="none">
+							<g>
+								<g mask="url(#mfid425)">
+									<use xlink:href="#mfid2"/>
+								</g>
+							</g>
+						</mask>
+						<linearGradient id="mfid427" gradientUnits="userSpaceOnUse" x1="-0.010417" y1="0.10937" x2="0.062141"
+								y2="0.10937" spreadMethod="repeat">
+							<stop offset="0" stop-color="#bfbfbf"/>
+							<stop offset="1" stop-color="#595959"/>
+						</linearGradient>
+						<g mask="url(#mfid426)">
+							<g text-rendering="geometricPrecision">
+								<g transform="matrix(96, 0, 0, -96, 451.02, 77.64)">
+									<g fill="url(#mfid427)" stroke-width="0.33333" stroke="#595959" stroke-linecap="round"
+											stroke-linejoin="round">
+										<rect x="-0.010417" y="-0.010417" width="0.072557" height="0.23958" stroke="none"/>
+										<defs>
+											<path id="mfid428" d="M458,76 L458,82 L460,82 L460,52 L458,52 L458,76 Z"/>
+										</defs>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g>
+							<g text-rendering="geometricPrecision">
+								<g fill="#d8d8d8" stroke-width="0.33333" stroke="#595959" stroke-linecap="round"
+										stroke-linejoin="round">
+									<use xlink:href="#mfid428" fill-rule="evenodd" stroke="none"/>
+									<use xlink:href="#mfid428" fill="none"/>
+								</g>
+							</g>
+						</g>
+					</g>
+				</svg>
+				<rect x="0" y="13.4196" width="398.891" height="98.49" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

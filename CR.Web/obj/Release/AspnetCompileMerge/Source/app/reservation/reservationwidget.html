@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('farmObject.name')" href="">Farm Object</a></th>
+                <th><a data-ng-click="vm.setSort('farmObject.cluster.name')" href="">Cluster (VIP)</a></th>
+                <th><a data-ng-click="vm.setSort('address')" href="">IP Address</a></th>                
+                <th><a data-ng-click="vm.setSort('farmObject.serial')" href="">Serial</a></th>                
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.reservations | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoReservation(item)">
+                <td>{{item.farmObject.name}}</td>
+                <td>{{item.farmObject.cluster.name}}</td>
+                <td>{{item.address}}</td>                
+                <td>{{item.farmObject.serial}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,48 @@
+﻿<section class="mainbar" data-ng-controller="luns as vm">
+    <section class="matter">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <input class="input-sm search-query"
+                           data-ng-model="vm.lunSearch"
+                           data-ng-keyup="vm.search($event)"
+                           placeholder="Filter Lun Label.." />
+                </div>
+                <div class="col-sm-6">
+                    <div class="btn-group pull-right">
+                        <a class="btn btn-info"
+                           data-ng-click="vm.refresh()"><i class="fa fa-refresh"></i><span>Refresh</span></a>
+                        <a class="btn btn-info"
+                           href="#/lun/new"><i class="fa fa-plus"></i><span>Add Lun</span></a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="widget wviolet col-sm-12">
+                    <div class="widget-head" data-cr-widget-header title="{{vm.title}}"
+                         subtitle="{{vm.lunFilteredCount}} / {{vm.lunCount}}"
+                         right-text="Page {{vm.paging.currentPage}} of {{vm.paging.pageCount}}">
+                    </div>
+                    <div class="clearfix"></div>
+                    <div class="widget-content" data-ng-include="'/app/lun/lunwidget.html'">
+                    </div>
+                    <div class="widget-foot">
+                        <div class="clearfix"></div>
+                        <pagination boundary-links="true"
+                                    on-select-page="vm.pageChanged(page)"
+                                    total-items="vm.lunFilteredCount"
+                                    items-per-page="vm.paging.pageSize"
+                                    page="vm.paging.currentPage"
+                                    max-size="vm.paging.maxPagesToShow"
+                                    class="pagination-sm"
+                                    previous-text="Prev"
+                                    next-text="Next"
+                                    first-text="First"
+                                    last-text="Last"></pagination>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

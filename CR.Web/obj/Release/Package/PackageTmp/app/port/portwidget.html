@@ -1,0 +1,21 @@
+﻿<div class="widget-content referrer">    
+    <table class="table table-bordered table-hover" >
+        <thead>
+            <tr>
+                <th><a data-ng-click="vm.setSort('farmObject.name')" href="">Farm Object</a></th>
+                <th><a data-ng-click="vm.setSort('portNo')" href="">Port No.</a></th>
+                <th><a data-ng-click="vm.setSort('link.labelServerEndpoint')" href="">Server Endpoint Link Label</a></th>               
+                <th><a data-ng-click="vm.setSort('createdOn')" href="">Activated On</a></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in vm.ports | orderBy:vm.predicate:vm.reverse"
+                data-ng-click="vm.gotoPort(item)">
+                <td>{{item.farmObject.name}}</td>
+                <td>{{item.portNo}}</td>
+                <td>{{item.link.labelServerEndpoint}}</td>
+                <td>{{item.createdOn}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

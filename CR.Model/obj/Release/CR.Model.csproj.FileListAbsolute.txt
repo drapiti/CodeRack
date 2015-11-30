@@ -1,0 +1,15 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\bin\Release\CR.Model.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\bin\Release\CR.Model.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\obj\Release\CR.Model.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\obj\Release\CR.Model.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.Model\obj\Release\CR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\bin\Release\CR.Model.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\bin\Release\CR.Model.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\bin\Release\CR.Model.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\bin\Release\CR.Model.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.Model\obj\Release\CR.Model.pdb

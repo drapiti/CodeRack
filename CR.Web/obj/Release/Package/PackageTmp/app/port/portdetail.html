@@ -1,0 +1,90 @@
+﻿<section class="mainbar" data-ng-controller="portdetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deletePort()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.port && vm.port.portNo || 'New Port'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>Port No.</label><br />
+                            <input data-ng-model="vm.port.portNo"
+                                   data-z-validate
+                                   placeholder="Port No." /><br /><br />
+                            <label>Hostname</label><br />
+                            <select data-ng-options="p.name for p in vm.farmObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.port.farmObject"></select><br /><br />
+                            <label>Vlans in Trunk</label><br />
+                            <input data-ng-model="vm.port.trunkVlans"
+                                   data-z-validate
+                                   placeholder="insert comma seperated vlans: 90,91,92.." /><br /><br />
+                            <label>Interface</label><br />
+                            <input data-ng-model="vm.port.interface"
+                                   data-z-validate
+                                   placeholder="Interface" /><br /><br />
+                            <label>Type</label><br />
+                            <input data-ng-model="vm.port.type"
+                                   data-z-validate
+                                   placeholder="Network/Storage" /><br /><br />
+                            <label>WWPN</label><br />
+                            <input data-ng-model="vm.port.wWPN"
+                                   data-z-validate
+                                   placeholder="WWPN" /><br /><br />
+                            <label>MAC</label><br />
+                            <input data-ng-model="vm.port.mAC"
+                                   data-z-validate
+                                   placeholder="MAC Address" /><br /><br />
+                            <label>State</label><br />
+                            <input data-ng-model="vm.port.state"
+                                   data-z-validate
+                                   placeholder="State" /><br /><br />
+                            <label>Server Endpoint Link Label</label><br />
+                            <select data-ng-options="l.labelServerEndpoint for l in vm.links"
+                                    data-z-validate
+                                    data-ng-model="vm.port.link"></select>
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewPort">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.port.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.port.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.port.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.port.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

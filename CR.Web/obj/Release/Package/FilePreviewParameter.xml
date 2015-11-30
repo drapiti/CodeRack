@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="coderack" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Denis\\OneDrive\\Documenti\\CodeRack\\CR\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Denis\\OneDrive\\Documenti\\CodeRack\\CR\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" value="coderack/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Denis\\OneDrive\\Documenti\\CodeRack\\CR\.Web\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+  <parameter name="CodeRack-Web.config Connection String" description="CodeRack Connection String used in web.config by the application to access the database." value="Data Source=|DataDirectory|\CodeRack.sdf;Max Database Size=4091" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Denis\\OneDrive\\Documenti\\CodeRack\\CR\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CodeRack']/@connectionString" />
+  </parameter>
+</parameters>

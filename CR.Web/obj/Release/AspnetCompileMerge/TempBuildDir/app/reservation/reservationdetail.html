@@ -1,0 +1,74 @@
+﻿<section class="mainbar" data-ng-controller="reservationdetail as vm">
+    <section class="matter">
+        <div class="container-fluid">
+            <div>
+                <button class="btn btn-info"
+                        data-ng-click="vm.goBack()">
+                    <i class="fa fa-hand-o-left"></i>Back
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.cancel()"
+                        data-ng-disabled="!vm.canCancel">
+                    <i class="fa fa-undo"></i>Cancel
+                </button>
+                <button class="btn btn-info"
+                        data-ng-click="vm.save()"
+                        data-ng-disabled="!vm.canSave">
+                    <i class="fa fa-save"></i>Save
+                </button>
+                <button class="btn btn-danger"
+                        data-ng-click="vm.deleteReservation()">
+                    <i class="fa fa-trash-o"></i>Delete
+                </button>
+                <span data-ng-show="vm.hasChanges"
+                      class="dissolve-animation ng-hide">
+                    <i class="fa fa-asterisk fa-asterisk-large"></i>
+                </span>
+            </div>
+            <div class="widget wgreen">
+                <div class="widget-head" data-cr-widget-header
+                     title="Edit {{vm.reservation && vm.reservation.address || 'New Reservation'}}"></div>
+                <div class="widget-content user">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <br />
+                            <label>Network</label><br />
+                            <select data-ng-options="n.address for n in vm.networks"
+                                    data-z-validate
+                                    data-ng-model="vm.reservation.network"></select><br /><br />
+                            <label>IP Address</label><br />
+                            <input data-ng-model="vm.reservation.address"
+                                   data-z-validate
+                                   placeholder="Reservation" /><br /><br />
+                            <label>Hostname</label><br />
+                            <select data-ng-options="fo.name for fo in vm.farmObjects"
+                                    data-z-validate
+                                    data-ng-model="vm.reservation.farmObject"></select><br /><br />
+                            <label>Cluster (VIP)</label><br />
+                            <select data-ng-options="cl.name for cl in vm.clusters"
+                                    data-z-validate
+                                    data-ng-model="vm.reservation.cluster"></select><br /><br />
+                            <label>Description</label><br />
+                            <input data-ng-model="vm.reservation.description"
+                                   data-z-validate
+                                   placeholder="Description" />
+                        </div>
+                        <div class="col-md-6" data-ng-switch="!!vm.isNewReservation">
+                            <div class="text-subtle" data-ng-switch-when="false">
+                                <br /><br />
+                                <label>Created By</label><br />
+                                <small>{{vm.reservation.createdBy}}</small><br /><br />
+                                <label>Created On</label><br />
+                                <small>{{vm.reservation.createdOn}}</small><br /><br />
+                                <label>Updated By</label><br />
+                                <small>{{vm.reservation.updatedBy}}</small><br /><br />
+                                <label>Updated On</label><br />
+                                <small>{{vm.reservation.updatedOn}}</small><br /><br />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

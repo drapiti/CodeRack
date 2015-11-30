@@ -1,0 +1,95 @@
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll.config
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.pdb
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\CR.Model.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\CR.Model.pdb
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.xml
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+E:\Tesi\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.xml
+E:\Tesi\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.csprojResolveAssemblyReference.cache
+E:\Tesi\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.dll
+E:\Tesi\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll.config
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\CR.Model.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\CR.Model.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Projects\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll.config
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.Model.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.Model.pdb
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.dll
+C:\Users\Denis\SkyDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.pdb
+D:\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll.config
+D:\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.pdb
+D:\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\CR.Model.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+D:\CodeRack\CR.DataAccess\bin\Debug\CR.Model.pdb
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.xml
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.csprojResolveAssemblyReference.cache
+D:\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.dll
+D:\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll.config
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.DataAccess.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.Model.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\CR.Model.pdb
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.dll
+C:\Users\Denis\OneDrive\Documenti\CodeRack\CR.DataAccess\obj\Debug\CR.DataAccess.pdb
